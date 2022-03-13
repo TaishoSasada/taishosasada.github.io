@@ -1,4 +1,4 @@
-# Taisho Sasada (笹田 大翔)
+# Taisho SASADA (笹田 大翔)
 
 ## Who am I?
 
