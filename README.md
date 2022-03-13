@@ -9,7 +9,7 @@ My main research interests are Data Privacy, Zero-Trust Access Control, Security
 I graduated early from the master's program in September 2021.
 
 
-My detailed CV is given [here (pdf)](./cv/Taisho_Sasada_CV.pdf).
+My detailed CV is given [here (pdf)].
 
 My current development projects and research interests are in:
 
