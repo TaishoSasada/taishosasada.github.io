@@ -12,7 +12,6 @@ I graduated early from the master's program in September 2021.</p>
 My detailed CV is given [here (pdf)](./cv/Taisho_Sasada_CV.pdf).
 
 My current development projects and research interests are in:
-
 - Design of LDP schemes using Secure Computing (Zero Knowledge Range Proof, TEE, etc.) for data transmission volume control in mutually untrusted pairs, i.e., secure LDP schemes.
 - Zero-trust access control that monitors user authenticity. Prevent data leakage through device and account sharing by continually verifying personally identifiable features such as clickstreams.
 - Design of hands-on & scenario exercises for efficient zero-trust education. Quantitative evaluation of educational effectiveness is also being conducted through implementation with students and companies.
