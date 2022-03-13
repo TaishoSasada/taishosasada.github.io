@@ -1,9 +1,10 @@
 # Taisho SASADA (笹田 大翔)
 
-## Who am I?
-<p><img src="./cv/tsasada.jpg" width="200" align="right">I am currently a PhD student at Cyber Resilience Laboratory (Professor is Youki Kadobayashi) starting October 2021.
-Doctoral research theme is on practical privacy protection with LDP in spatio-temporal data (This theme is accepted as JSPS DC1).
+## whoami?
+<p><img src="./cv/tsasada.jpg" width="200" align="right">I am currently a Ph.D student at Cyber Resilience Laboratory (Professor is Youki Kadobayashi) starting October 2021.
+Doctoral research topic is on practical privacy protection with LDP in spatio-temporal data (This theme is accepted as JSPS DC1).
 During my master's program, I worked on text privacy protection as a Cybozu Lab's Youth Program.
+
 My main research interests are Data Privacy, Zero-Trust Access Control, Security Education for Corp, Imbalanced Data Leanring, and Intrusion Detection. 
 I graduated early from the master's program in September 2021.</p>
 
@@ -45,8 +46,8 @@ My current development projects and research interests are in:
 
 - [Google Scholar](https://scholar.google.co.jp/citations?user=Orh0RxAAAAAJ&hl=en)
 - [Research Gate](https://www.researchgate.net/profile/Taisho-Sasada)
-- [Lab](https://iplab.naist.jp/)
+- [iplab](https://iplab.naist.jp/)
 
 ## Contact
 
-Please send me a message through [my LinkedIn page](https://www.linkedin.com/in/junkurihara/), or email found in my recent papers,
+Please found email in my recent papers.
