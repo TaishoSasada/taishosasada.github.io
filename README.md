@@ -1,4 +1,4 @@
-# Taisho Sasada
+# Taisho Sasada (笹田 大翔)
 
 ## Who am I?
 
@@ -13,64 +13,35 @@ My current development projects and research interests are in:
 - Information-centric networking (Named-data networking; NDN) and its brand-new security mechanisms, e.g., security in edge named function environment.
 - Privacy and security in Domain Name Systems (DNS) on the Internet.
 
-## (Open Source) Software Projects
+## International Conference (国際会議)
+ - Taisho Sasada, Yuto Masuda, Yuzo Taenaka, Youki Kadobayashi, Doudou Fall, "Zero-Trust Access Control Focusting onlmbalanced Distribution in Browser Clickstreams ", In Proceedings of the The Eighth International Conference on Software Defined Systems (SDS2021), December 2021. (To Appear)
+ - Taisho Sasada, Masataka Kawai, Doudou Fall, Yuzo Taenaka, Youki Kadobayashi, "Differentially-Private Text Generation via Text Preprocessing to Reduce Utility Loss", In the 3rd International Conference on Artificial Intelligence in Information and Communication (ICAIIC 2021), April 2021. DOI: 10.1109/ICAIIC51459.2021.9415242.
+ - Taisho Sasada, Yuzo Taenaka, Youki Kadobayashi, "Anonymizing Location Information in Unstructured Text Using Knowledge Graph", In Proceedings of the 22nd International Conference on Information Integration and Web-based Applications & Services (iiWAS2020), November 2020. DOI: https://doi.org/10.1145/3428757.3429195
+ - Taisho Sasada, Zhaoyu Liu, Tokiya Baba, Kenji Hatano, Yusuke Kimura, "A resampling method for imbalanced datasets considering noise and overlap", 24th International Conference on Knowledge-Based and Intelligent Information & Engineering Systems (KES2020), September 2020. DOI:10.1016/j.procs.2020.08.043
 
-- Mutualized Oblivious DNS: [https://dns.secarchlab.net](https://dns.secarchlab.net)
-- rust-gd - A Rust Implementation of Generalized Deduplication [https://github.com/junkurihara/rust-gd](https://github.com/junkurihara/rust-gd)
-- jscu - A Universal Cryptographic Library for JavaScript: [https://github.com/junkurihara/jscu](https://github.com/junkurihara/jscu)
-- etc... See [my GitHub](https://github.com/junkurihara/)
-
-## Selected Publication
-
-### Coding theory and its application to security techniques
-
-- J. Kurihara, T. Nakamura and R. Watanabe, ''Private Information Retrieval from Coded Storage in the Presence of Omniscient and Limited-Knowledge Byzantine Adversaries,'' IEICE Trans. Fundamentals, vol. E104-A, no. 9, pp. 1271--1283, Sep. 2021. [Online] Available [here (pdf)](./repo/ieice-e104-a_9_1271.pdf) (Copyright IEICE).
-- J. Kurihara, R. Matsumoto and T. Uyematsu, ''Relative Generalized Rank Weight of Linear Codes and Its Applications to Network Coding,'' IEEE Trans. Information Theory, vol. 61, no 7, pp. 3912--3936, Jul. 2015. [Online] Available at [Arxiv](https://arxiv.org/abs/1301.5482). [[Slides at SITA2014](./repo/sita-2014_slides.pdf) (in Japanese)]
-- J. Kurihara, T. Uyematsu and R. Matsumoto, ''Secret Sharing Schemes Based on Linear Codes Can Be Precisely Characterized by the Relative Generalized Hamming Weight,'' IEICE Trans. Fundamentals, vol. E95-A, no. 11, pp. 2067--2075, Nov. 2012. [Online] Avaliable [here (pdf)](./repo/ieice-e95-a_11_2067.pdf) (Copyright IEICE). [[Review paper](https://www.jstage.jst.go.jp/article/essfr/9/1/9_14/_pdf) (in Japanese)]. [[Slides at IEICE-IT-201503](./repo/it-201503_sildes.pdf) (in Japanese)]
-- J. Kurihara, S. Kiyomoto, K. Fukushima and T. Tanaka, ''On a Fast (k,n)-threshold Secret Sharing Scheme,'' IEICE Trans. Fundamentals, vol. E91-A, no. 9, pp. 2365--2378, Sep. 2008. [Online] Available [here (pdf)](./repo/ieice-e91-a_09_2365.pdf) (Copyright IEICE).
-
-### New networking and computing architecture and its security
-
-- R. Watanabe, A. Kubota and J. Kurihara, ''Resource Authorization Methods for Edge Computing,'' to Appear in the 36-th International Conference on Advanced Information Networking and Applications (AINA 2022).
-- K. Ueda, K. Yokota, J. Kurihara and A. Tagami, ''Two-level Named Packet Forwarding for Enhancing the Performance of Virtualized ICN Router,'' IEICE Trans. Communications, vol. E102-B, no. 9, pp. 1813--1821, Sep. 2019.
-- J. Kurihara, K. Yokota and A. Tagami, ''List Interest: Simply Packing Interests Dramatically Reduces Router Workload in Content-Centric Networking,'' IEICE Trans. Communications, vol. E99-B, no. 12, pp. 2520--2531, Dec. 2016. [Online] Available [here (pdf)](./repo/ieice-e99-b_12_2520.pdf) (Copyright IEICE).
-- J. Kurihara, K. Yokota and A. Tagami, ''A Consumer-driven Access Control Approach to Censorship Circumvention in Content-Centric Networking,'' in Proc. ACM ICN 2016, Sep. 2016, pp. 186--194. [Online] Available at [sigcomm.org (pdf)](http://conferences2.sigcomm.org/acm-icn/2016/proceedings/p186-kurihara.pdf).
-- J. Kurihara, E. Uzun and C. A. Wood, ''An Encryption-based Access Control Framework for Content-Centric Networking,'' in Proc. IFIP Networking 2015, May 2015, pp. 1--9. [Online] Available at [ifip.org (pdf)](http://dl.ifip.org/db/conf/networking/networking2015/1570063455.pdf).
+## Domestic Conference (国内研究会)
+ - 鈴木友也, 笹田大翔, 増田裕斗, 妙中雄三, "Intel SGXを用いた耐タンパー性を備えたホスト型IDSの試作", IOTS 2021, 2021年11月. [学生奨励賞]
+ - 笹田大翔, 増田裕斗, 妙中雄三, 門林雄基, Doudou Fall, "ユーザ真正性を検証するゼロトラストアクセス制御機構の設計と試作", 信学技法,vol. 121, no. 262, NS2021-95, pp. 56–61, 2021年11月. 
+ - 笹田大翔, 河合将隆, 妙中雄三, Doudou Fall, 門林雄基, "プライバシ保護と内在情報価値保存を両立する擬似テキスト生成モデルの検討", DEIM2021, 2021年3月. 
+ - 笹田 大翔, 妙中 雄三, 門林 雄基, Doudou Fall, "ユーザの軌跡隣接性を考慮した局所差分プライバシにおけるノイズ付加量変化の検討", 信学技報, vol. 120, no. 224, ISEC2020-39, pp. 45–50, 2020年11月.
+ - 笹田大翔, 馬場睦也, 木村優介, 波多野賢治, "データの複雑性を考慮した不均衡データに対するリサンプリング手法", 情報処理学会 第82回全国大会講演論文集, 2020年3月．
+ - 笹田 大翔, リュウ ショウウ, 蒲原 智也, 波多野 賢治, "ネットワーク性能指標を用いた不正アクセスの攻撃分類と評価", WebDB Forum, 2020年9月
 
 ## Lectures
 
 - 2021
-  - Security Engineering / セキュリティエンジニアリング特論 (Fall 2021,U-Hyogo)
-  - Network Security / ネットワークセキュリティ特論 (Spring 2021, U-Hyogo)
-  - Information Security / 情報セキュリティ科学概論 (Spring 2021,U-Hyogo)
-
-- 2020
-  - Security Engineering / セキュリティエンジニアリング特論 (Fall 2020,U-Hyogo)
-  - Information Security / 情報セキュリティ論 (Spring 2020, U-Hyogo)
-  - FIDO2 --Modern Authentication-- (Zettant)
-
-- 2019
-  - Introduction to End-to-End Encryption using JavaScript (Zettant)
+  - Zero Trust Access Control / ゼロトラストアクセス制御 (Fall 2021, IPA ICSCoE Program)
+  - Zero Trust Access Control / ゼロトラストアクセス制御 (Summer 2021, enPIT SecCap)
 
 ## Grants
 
-- KDDI Foundation Grant 2022-2024PI
-- JSPS KAKENHI Grant-in-Aid for:
-  - Scientific Research C 2022--2024PI
-  - Scientific Research B 2021--2023Co (PI: Prof. Koizumi @Osaka Univ.)
-  - Start-up 2020--2021PI
-- University of Hyogo special grant for young researchers
-  - 2021PI
-  - 2020PI
+- JSPS research fellow DC1
 
 ## Links
 
-- [GitHub](https://github.com/junkurihara)
-- [LinkedIn](https://www.linkedin.com/in/junkurihara/)
-- [Google Scholar](https://scholar.google.co.jp/citations?user=e0XuwAoAAAAJ&hl=ja)
-- [Researchmap](https://researchmap.jp/junkurihara)
-- [Slideshare](https://www.slideshare.net/JunKurihara2) (Slides of my talks at Zettant Inc. and other conferences.)
-- [Lab](https://secarchlab.github.io/)
+- [Google Scholar](https://scholar.google.co.jp/citations?user=Orh0RxAAAAAJ&hl=en)
+- [Research Gate](https://www.researchgate.net/profile/Taisho-Sasada)
+- [Lab](https://iplab.naist.jp/)
 
 ## Contact
 
