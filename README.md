@@ -2,17 +2,21 @@
 
 ## Who am I?
 
-I am currently a Ph.D student at Cyber Resilience Laboratory (Professor is Youki Kadobayashi) starting October 2021. I have been researching on data privacy, zero-trust networks, imbalanced data, and intrusion detection.
+I am currently a PhD student at Cyber Resilience Laboratory (Professor is Youki Kadobayashi) starting October 2021.
+D. research is on practical privacy protection with LDP in spatio-temporal data.
+During my master's program, I worked on text privacy protection as a Cybozu Lab's Youth Program.
+My main research interests are Data Privacy, Zero-Trust Access Control, Security Education for Corp, Imbalanced Data Leanring, and Intrusion Detection. 
+I graduated early from the master's program in September 2021.
 
 
 My detailed CV is given [here (pdf)](./cv/cv-en.pdf).
 
 My current development projects and research interests are in:
 
-- Information security and privacy mechanisms using coding theoretic techniques, e.g., secret sharing, private information retrieval, etc.
-- New computing and networking architecture and so-called 'security-by-design'. Currently, I am interested in edge computing architecture, its security and privacy, e.g., new theoretical (and mathematical) framework of secure in-networking communication and computation, privacy-preserving computation at untrusted third-party edge environment.
-- Information-centric networking (Named-data networking; NDN) and its brand-new security mechanisms, e.g., security in edge named function environment.
-- Privacy and security in Domain Name Systems (DNS) on the Internet.
+- Design of LDP schemes using Secure Computing (Zero Knowledge Range Proof, TEE, etc.) for data transmission volume control in mutually untrusted pairs, i.e., secure LDP schemes.
+- Zero-trust access control that monitors user authenticity. Prevent data leakage through device and account sharing by continually verifying personally identifiable features such as clickstreams.
+- Design of hands-on & scenario exercises for efficient zero-trust education. Quantitative evaluation of educational effectiveness is also being conducted through implementation with students and companies.
+- Output Privacy Protection by Differentially Private Federated Learning and Machine/Deep Learning. Implemented for application in data structures such as text and movement trajectories
 
 ## International Conference (国際会議)
  - Taisho Sasada, Yuto Masuda, Yuzo Taenaka, Youki Kadobayashi, Doudou Fall, "Zero-Trust Access Control Focusting onlmbalanced Distribution in Browser Clickstreams ", In Proceedings of the The Eighth International Conference on Software Defined Systems (SDS2021), December 2021. (To Appear)
