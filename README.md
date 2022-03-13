@@ -1,4 +1,4 @@
-# Jun KURIHARA
+# 
 
 ## Who am I?
 
