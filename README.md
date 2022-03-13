@@ -2,7 +2,7 @@
 
 ## Who am I?
 
-D student at Cyber Resilience Laboratory (Professor is Youki Kadobayashi) since October 2021. I have been working on data privacy, zero-trust networks, imbalanced data, and intrusion detection.
+I am currently a Ph.D student at Cyber Resilience Laboratory (Professor is Youki Kadobayashi) starting October 2021. I have been researching on data privacy, zero-trust networks, imbalanced data, and intrusion detection.
 
 
 My detailed CV is given [here (pdf)](./cv/cv-en.pdf).
