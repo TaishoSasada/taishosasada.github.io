@@ -1,5 +1,4 @@
 theme: jekyll-theme-midnight
 google_analytics: UA-163123480-2
-
 plugins:
  - jekyll-sitemap
