@@ -25,8 +25,11 @@ My current development projects and research interests are in:
  - Taisho Sasada, Zhaoyu Liu, Tokiya Baba, Kenji Hatano, Yusuke Kimura, "A resampling method for imbalanced datasets considering noise and overlap", 24th International Conference on Knowledge-Based and Intelligent Information & Engineering Systems (KES2020), September 2020. DOI:10.1016/j.procs.2020.08.043
 
 ## ===Domestic Conference (国内研究会)===
+ - 濱田雅大, 笹田大翔, 妙中雄三, 門林雄基, "類似性と多様性を両立する連合型個別化推薦モデルの構築", vol. 122, no. 105, pp. 100-105, 2022年7月
+ - 笹田大翔, 妙中雄三, 門林雄基, "軌跡データの時間的/空間的な内在情報価値の保存に向けたLDPにおける動的プライバシ制御法の一検討", 信学技法, vol. 122, no. 105, pp.106-111, 2022年7月
+ - 笹田 大翔, 妙中 雄三, 門林 雄基, "ゼロトラストアクセス制御を題材とした仮想システム設計演習の教育効果測定", vol. 37, no. 14, pp. 1-8, 2022年6月
  - 鈴木友也, 笹田大翔, 増田裕斗, 妙中雄三, "Intel SGXを用いた耐タンパー性を備えたホスト型IDSの試作", IOTS 2021, 2021年11月. [学生奨励賞]
- - 笹田大翔, 増田裕斗, 妙中雄三, 門林雄基, Doudou Fall, "ユーザ真正性を検証するゼロトラストアクセス制御機構の設計と試作", 信学技法,vol. 121, no. 262, NS2021-95, pp. 56–61, 2021年11月. 
+ - 笹田大翔, 増田裕斗, 妙中雄三, 門林雄基, Doudou Fall, "ユーザ真正性を検証するゼロトラストアクセス制御機構の設計と試作", 信学技法, vol. 121, no. 262, NS2021-95, pp. 56–61, 2021年11月. 
  - 笹田大翔, 河合将隆, 妙中雄三, Doudou Fall, 門林雄基, "プライバシ保護と内在情報価値保存を両立する擬似テキスト生成モデルの検討", DEIM2021, 2021年3月. 
  - 笹田 大翔, 妙中 雄三, 門林 雄基, Doudou Fall, "ユーザの軌跡隣接性を考慮した局所差分プライバシにおけるノイズ付加量変化の検討", 信学技報, vol. 120, no. 224, ISEC2020-39, pp. 45–50, 2020年11月.
  - 笹田大翔, 馬場睦也, 木村優介, 波多野賢治, "データの複雑性を考慮した不均衡データに対するリサンプリング手法", 情報処理学会 第82回全国大会講演論文集, 2020年3月．[学生奨励賞]
