@@ -5,7 +5,7 @@
 Doctoral research topic is on practical privacy protection with LDP in spatio-temporal data (This theme is accepted as JSPS DC1).
 During my master's program, I worked on text privacy protection as a Cybozu Lab's Youth Program.
 
-My main research interests are Data Privacy, Zero-Trust Access Control, Security Education for Corp, Imbalanced Data Leanring, and Intrusion Detection. 
+My main research interests are Data Privacy, Zero-Trust Access Control, Security Education for Corp, Imbalanced Data Learning, and Intrusion Detection. 
 I graduated early from the master's program in September 2021.</p>
 
 
