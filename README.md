@@ -19,7 +19,7 @@ My current development projects and research interests are in:
 - Output Privacy Protection by Differentially Private Federated Learning and Machine/Deep Learning. Implemented for application in data structures such as text and movement trajectories
 
 ## ===International Conference (国際会議)===
- - Taisho Sasada, Yuzo Taenaka, Youki Kadobayashi, "DPSD: Dynamic Private Spatial Decomposition Based on Spatial and Temporal Correlations", The 7th International Conference on Smart Computing and Communication (Accepted)
+ - [Best Paper Award] Taisho Sasada, Yuzo Taenaka, Youki Kadobayashi, "DPSD: Dynamic Private Spatial Decomposition Based on Spatial and Temporal Correlations", The 7th International Conference on Smart Computing and Communication (Acceptance rate 23.81% : 25/105)
  - Taisho Sasada, Yuzo Taenaka, Youki Kadobayashi, "Decoupling Statistical Trends from Data Volume on LDP-Based Spatio-Temporal Data Collection", 2022 IEEE Future Networks World Forum (Accepted)
  - Taisho Sasada, Yuto Masuda, Yuzo Taenaka, Youki Kadobayashi, Doudou Fall, "Zero-Trust Access Control Focusting onlmbalanced Distribution in Browser Clickstreams ", In Proceedings of the The Eighth International Conference on Software Defined Systems (SDS2021), December 2021. (To Appear)
  - Taisho Sasada, Masataka Kawai, Doudou Fall, Yuzo Taenaka, Youki Kadobayashi, "Differentially-Private Text Generation via Text Preprocessing to Reduce Utility Loss", In the 3rd International Conference on Artificial Intelligence in Information and Communication (ICAIIC 2021), April 2021. DOI: 10.1109/ICAIIC51459.2021.9415242.
