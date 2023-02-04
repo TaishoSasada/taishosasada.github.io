@@ -5,3 +5,6 @@ plugins:
 
 name: ""
 title: null
+
+github:
+  is_project_page: false
