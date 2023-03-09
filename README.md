@@ -24,6 +24,9 @@ My current development projects and research interests are in:
 
 ***
 
+## International Journal (国際論文誌)
+- <u>Taisho Sasada</u>, Yuzo Taenaka, Youki Kadobayashi, "Oblivious Statistic Collection With Local Differential Privacy in Mutual Distrust", IEEE Access, March 2023. DOI: 10.1109/ACCESS.2023.3251560
+
 ## International Conference (国際会議)
  - Masashi Yoshimura, <u>Taisho Sasada</u>, Yuzo Taenaka, "Enabling Memory Efficient Encrypted Database Utilizing Secure_Unsecured Area of Intel SGX", The 15th International Conference on Advances in Databases, Knowledge, and Data Applications (Accepted)
  - <span style="color: red; ">[Best Paper Award]</span> <u>Taisho Sasada</u>, Yuzo Taenaka, Youki Kadobayashi, "DPSD: Dynamic Private Spatial Decomposition Based on Spatial and Temporal Correlations", The 7th International Conference on Smart Computing and Communication (Acceptance rate 23.81% : 25/105)
