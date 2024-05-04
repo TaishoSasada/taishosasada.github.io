@@ -71,9 +71,12 @@ Current research:
 ***
 
 ## Award
- - 若手研究奨励賞 : "ゼロトラストアクセス制御のための行動的・認知的バイオメトリクスを用いたユーザ真正性検証手法", 電子情報通信学会 ネットワークシステム研究会（2023年1月研究会)
- - Best Paper Award: "DPSD: Dynamic Private Spatial Decomposition Based on Spatial and Temporal Correlations", The 7th International Conference on Smart Computing and Communication (Acceptance rate 23.81% : 25/105)
- - 学生奨励賞 : "データの複雑性を考慮した不均衡データに対するリサンプリング手法", 第82回全国大会講演論文集
+ - 2024年3月最優秀学生賞, 奈良先端科学技術大学院大学
+ - 2024年3月NAIST最優秀学生賞, 公益財団法人奈良先端科学技術大学院大学支援財団 
+ - 若手研究奨励賞("OpenID Connectにおけるセッショントークンの悪用に対するアクセス制御手法の提案"), 電子情報通信学会 ネットワークシステム研究会（2024年1月研究会)
+ - 若手研究奨励賞("ゼロトラストアクセス制御のための行動的・認知的バイオメトリクスを用いたユーザ真正性検証手法"), 電子情報通信学会 ネットワークシステム研究会（2023年1月研究会)
+ - Best Paper Award("DPSD: Dynamic Private Spatial Decomposition Based on Spatial and Temporal Correlations"), The 7th International Conference on Smart Computing and Communication (Acceptance rate 23.81% : 25/105)
+ - 学生奨励賞("データの複雑性を考慮した不均衡データに対するリサンプリング手法"), 第82回全国大会講演論文集
 
 ***
 
