@@ -1,9 +1,11 @@
 # Taisho SASADA (笹田 大翔)
 
+
 ***
 
+
 ## whoami?
-<p><img src="./cv/tsasada.jpg" width="150" align="right">Taisho Sasada is an Assistant Professor at Nara Institute of Science and Technology (NAIST). He received B.S. in culture and information science from Doshisha University, and M.E, and Ph.D in engineering from NAIST in 2020, 2021 and 2024 respectively. From 2022 to 2024, he was a JSPS research Fellow (DC1), and he joined Dependable Systems Lab at NAIST in May. 2024. From Jan. to April in 2023, he was also a visiting researcher of Télécom SudParis. His current main research interests include data privacy, access control, and network security.
+<p><img src="./cv/tsasada.jpg" width="150" align="right">Taisho Sasada is an Assistant Professor at Nara Institute of Science and Technology (NAIST). He received B.S. in culture and information science from Doshisha University, and M.E, and Ph.D in engineering from NAIST in 2020, 2021 and 2024 respectively. From 2022 to 2024, he was a JSPS research Fellow (DC1), and he joined Dependable Systems Lab at NAIST in May. 2024. From Jan. to April in 2023, he was also a visiting researcher of Télécom SudParis. His current main research interests include data privacy, access control, and network security.</p>
 
 
 My detailed CV is given [here (pdf)](./cv/Taisho_Sasada_CV.pdf).
@@ -14,7 +16,9 @@ Current research:
 - Zero-trust access control that verifies user authenticity. Prevent data leakage through device and account sharing by continually verifying personally identifiable features such as clickstreams.
 - Design of hands-on & scenario exercises for efficient zero-trust education. Quantitative evaluation of educational effectiveness is also being conducted through implementation with students and companies.
 
+
 ***
+
 
 ## International Journal (国際論文誌)
 - <u>Taisho Sasada</u>, Masataka Kawai, Yuto Masuda, Yuzo Taenaka, Youki Kadobayashi, "Factor Analysis of Learning Motivation Difference on Cybersecurity Training with Zero Trust Architecture", IEEE Access, Vol. 11, pp. 141358 - 141374, December 2023. DOI: 10.1109/ACCESS.2023.3341093.
