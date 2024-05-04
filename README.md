@@ -3,31 +3,26 @@
 ***
 
 ## whoami?
-<p><img src="./cv/tsasada.jpg" width="150" align="right">I am currently a Ph.D student at Cyber Resilience Laboratory (Professor is Youki Kadobayashi) starting October 2021.
-Doctoral research topic is on practical privacy protection with LDP in spatio-temporal data (This theme is accepted as JSPS DC1).
-During my master's program, I worked on text privacy protection as a Cybozu Lab's Youth Program.
-
-My main research interests are Data Privacy, Zero-Trust Access Control, Security Education for Corp, Imbalanced Data Learning, and Intrusion Detection. 
-I graduated early from the master's program in September 2021.
-
-Currently, I am a visiting researcher at Télécom SudParis since January 2023.</p>
+<p><img src="./cv/tsasada.jpg" width="150" align="right">Taisho Sasada is an Assistant Professor at Nara Institute of Science and Technology (NAIST). He received B.S. in culture and information science from Doshisha University, and M.E, and Ph.D in engineering from NAIST in 2020, 2021 and 2024 respectively. From 2022 to 2024, he was a JSPS research Fellow (DC1), and he joined Dependable Systems Lab at NAIST in May. 2024. From Jan. to April in 2023, he was also a visiting researcher of Télécom SudParis. His current main research interests include data privacy, access control, and network security.
 
 
 My detailed CV is given [here (pdf)](./cv/Taisho_Sasada_CV.pdf).
 
 
-My current development projects and research interests are in:
+Current research:
 - Design of LDP schemes using Secure Computing (Zero Knowledge Range Proof, TEE, etc.) for data transmission volume control in mutually untrusted pairs, i.e., secure LDP schemes.
-- Zero-trust access control that monitors user authenticity. Prevent data leakage through device and account sharing by continually verifying personally identifiable features such as clickstreams.
+- Zero-trust access control that verifies user authenticity. Prevent data leakage through device and account sharing by continually verifying personally identifiable features such as clickstreams.
 - Design of hands-on & scenario exercises for efficient zero-trust education. Quantitative evaluation of educational effectiveness is also being conducted through implementation with students and companies.
-- Output Privacy Protection by Differentially Private Federated Learning and Machine/Deep Learning. Implemented for application in data structures such as text and movement trajectories
 
 ***
 
 ## International Journal (国際論文誌)
+- <u>Taisho Sasada</u>, Masataka Kawai, Yuto Masuda, Yuzo Taenaka, Youki Kadobayashi, "Factor Analysis of Learning Motivation Difference on Cybersecurity Training with Zero Trust Architecture", IEEE Access, Vol. 11, pp. 141358 - 141374, December 2023. DOI: 10.1109/ACCESS.2023.3341093.
 - <u>Taisho Sasada</u>, Yuzo Taenaka, Youki Kadobayashi, "Oblivious Statistic Collection With Local Differential Privacy in Mutual Distrust", IEEE Access, March 2023. DOI: 10.1109/ACCESS.2023.3251560
 
 ## International Conference (国際会議)
+ - Tomoya Suzuki, <u>Taisho Sasada</u>, Yuzo Taenaka, Youki Kadobayashi, "MosaicDB: An Efficient Trusted / Untrusted Memory Management for Location Data in Database", In The Sixteenth International Conference on Advances in Databases, Knowledge, and Data Applications (DBKDA 2024), February 2024. (Accepted)
+ - <u>Taisho Sasada</u>, Nesrine Kaaniche, Maryline Laurent, Yuzo Taenaka, Youki Kadobayashi, "Differentially-Private Data Aggregation over Encrypted Location Data for Range Counting Query", In 38th International Conference on Information Networking (ICOIN 2024), January 2024. 
  - Masashi Yoshimura, <u>Taisho Sasada</u>, Yuzo Taenaka, "Enabling Memory Efficient Encrypted Database Utilizing Secure_Unsecured Area of Intel SGX", The 15th International Conference on Advances in Databases, Knowledge, and Data Applications (Accepted)
  - <span style="color: red; ">[Best Paper Award]</span> <u>Taisho Sasada</u>, Yuzo Taenaka, Youki Kadobayashi, "DPSD: Dynamic Private Spatial Decomposition Based on Spatial and Temporal Correlations", The 7th International Conference on Smart Computing and Communication (Acceptance rate 23.81% : 25/105)
  - <u>Taisho Sasada</u>, Yuzo Taenaka, Youki Kadobayashi, "Decoupling Statistical Trends from Data Volume on LDP-Based Spatio-Temporal Data Collection", 2022 IEEE Future Networks World Forum (Accepted)
