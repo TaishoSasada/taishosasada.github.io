@@ -5,7 +5,7 @@
 
 
 ## whoami?
-<p><img src="./cv/tsasada.jpg" width="150" align="right">Taisho Sasada is an Assistant Professor at Nara Institute of Science and Technology (NAIST). He received B.S. in culture and information science from Doshisha University in 2020, and his M.E, and Ph.D (engineering) from NAIST in 2021 and 2024, respectively. From 2022 to 2024, he was a JSPS research Fellow (DC1), and he joined Dependable Systems Lab at NAIST in May. 2024. From Jan. to April in 2023, he was also a visiting researcher of Télécom SudParis. His current main research interests include data privacy, access control, and network security.</p>
+<p><img src="./cv/tsasada.jpg" width="150" align="right">Taisho Sasada is an Assistant Professor at Nara Institute of Science and Technology (NAIST). He received B.S. in culture and information science from Doshisha University in 2020, and his M.E, and Ph.D (engineering) from NAIST (Laboratory for Cyber Resilience) in 2021 and 2024, respectively. From 2022 to 2024, he was a JSPS research Fellow (DC1 & PD), and he joined Dependable Systems Lab at NAIST in May. 2024. From Jan. to Apr. in 2023, he was also a visiting researcher of Télécom SudParis. His current main research interests include data privacy, access control, and network security.</p>
 
 
 My detailed CV is given [here (pdf)](./cv/Taisho_Sasada_CV.pdf).
@@ -38,8 +38,10 @@ Current research:
 ***
 
 ## Domestic Conference (国内研究会)
- - 湯浅　潤樹, <u>笹田　大翔</u>, 妙中　雄三, 門林　雄基, "OpenID ConnectにおけるIDトークンの悪用に対するアクセス制御手法の提案" (To Appear)
- - 鈴木　友也　潤樹, <u>笹田　大翔</u>, 妙中　雄三, 門林　雄基, "プライバシゾーン設定を考慮したIntel SGXによる位置データ保護機構の提案" (To Appear)
+ - <span style="color: red; ">[若手研究奨励賞]</span> 湯浅 潤樹,  <u>笹田　大翔</u>, 妙中 雄三, 門林 雄基, "［奨励講演］OpenID Connectにおけるセッショントークンの悪用に対するアクセス制御手法の提案", 信学技報, vol. 123, no. 367, NS2023-162, pp. 19-24, 2024年1月.
+ - 湯浅 潤樹,  <u>笹田　大翔</u>, 妙中 雄三, 門林 雄基, "OpenID Connectにおけるテストシナリオをプログラム記述可能なテストツールの提案", 信学技報, vol. 123, no. 269, ICSS2023-66, pp. 108-113, 2023年11月.
+ - 湯浅　潤樹, <u>笹田　大翔</u>, 妙中　雄三, 門林　雄基, "OpenID ConnectにおけるIDトークンの悪用に対するアクセス制御手法の提案", 電子情報通信学会技術研究報告(Web), vol.123(No.198), pp.53-58(NS), 2023年10月
+ - 鈴木　友也　潤樹, <u>笹田　大翔</u>, 妙中　雄三, 門林　雄基, "プライバシゾーン設定を考慮したIntel SGXによる位置データ保護機構の提案", 電子情報通信学会技術研究報告(Web), vol.123(No,198), pp.65-70, 2023年10月
  - <span style="color: red; ">[若手研究奨励賞]</span> <u>笹田　大翔</u>, 妙中　雄三, 門林　雄基, "ゼロトラストアクセス制御のための行動的・認知的バイオメトリクスを用いたユーザ真正性検証手法", 電子情報通信学会技術研究報告(Web),  vol.122(No.362), pp. 19-24, 2023年1月
  - 瀨古　巽, 中川　桃李, 　<u>笹田　大翔</u>, 　妙中　雄三, 門林　雄基,	"CISOの能力習得を目的としたサイバーセキュリティ演習の設計と実施", 電子情報通信学会技術研究報告(Web), vol.122(No.274), pp. 23-28, 2022年11月
  - 濱田　雅大, <u>笹田　大翔</u>, 妙中　雄三, 門林　雄基, "類似性と多様性を両立する連合型個別化推薦モデルの構築", 電子情報通信学会技術研究報告(Web), vol.122(No.105), pp. 100-105, 2022年7月
