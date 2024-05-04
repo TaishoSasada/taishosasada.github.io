@@ -5,13 +5,11 @@
 
 
 ## whoami?
-<p><img src="./cv/tsasada.jpg" width="200" align="right" title="Photographed at Venice in Mar. 2023">Taisho Sasada is an Assistant Professor at Nara Institute of Science and Technology (NAIST). He received B.S. in culture and information science from Doshisha University in 2020, and his M.E, and Ph.D (engineering) from NAIST (Laboratory for Cyber Resilience) in 2021 and 2024, respectively. From 2022 to 2024, he was a JSPS research Fellow (DC1 & PD), and he joined Dependable Systems Lab at NAIST in May. 2024. From Jan. to Apr. in 2023, he was also a visiting researcher of Télécom SudParis. His current main research interests include data privacy, access control, and network security.</p>
+<p><img src="./cv/tsasada.jpg" width="200" align="right" title="Photographed at Venice in Mar. 2023">Taisho Sasada is an Assistant Professor at Nara Institute of Science and Technology (NAIST). He received B.S. in culture and information science from Doshisha University (Media Informatics Laboratory) in 2020, and his M.E, and Ph.D (engineering) from NAIST (Laboratory for Cyber Resilience) in 2021 and 2024, respectively. From 2022 to 2024, he was a JSPS research Fellow (DC1 & PD), and he joined Dependable Systems Lab at NAIST in May. 2024. From Jan. to Apr. in 2023, he was also a visiting researcher of Télécom SudParis.</p>
 
 
-Current research:
-- Design of LDP schemes using Secure Computing (Zero Knowledge Range Proof, TEE, etc.) for data transmission volume control in mutually untrusted pairs, i.e., secure LDP schemes.
-- Zero-trust access control that verifies user authenticity. Prevent data leakage through device and account sharing by continually verifying personally identifiable features such as clickstreams.
-- Design of hands-on & scenario exercises for efficient zero-trust education. Quantitative evaluation of educational effectiveness is also being conducted through implementation with students and companies.
+## Research Interest
+Engaged in research on privacy-enhancing technologies. He conducts research on technologies for protecting text data and spatio-temporal data with central/local differential privacy, and on networks that dynamically control access to sensitive data using web-biometrics. He also conducts research on intrusion detection using machine/deep learning and basic research on data engineering.
 
 
 ***
