@@ -20,15 +20,16 @@ Engaged in research on privacy-enhancing technologies. He conducts research on t
 2. <u>Taisho Sasada</u>, Yuzo Taenaka, Youki Kadobayashi, "Oblivious Statistic Collection With Local Differential Privacy in Mutual Distrust", IEEE Access, March 2023. DOI: 10.1109/ACCESS.2023.3251560
 
 ## International Conference (国際会議)
-1. Tomoya Suzuki, <u>Taisho Sasada</u>, Yuzo Taenaka, Youki Kadobayashi, "MosaicDB: An Efficient Trusted / Untrusted Memory Management for Location Data in Database", In The Sixteenth International Conference on Advances in Databases, Knowledge, and Data Applications (DBKDA 2024), February 2024. (Accepted)
-2. <u>Taisho Sasada</u>, Nesrine Kaaniche, Maryline Laurent, Yuzo Taenaka, Youki Kadobayashi, "Differentially-Private Data Aggregation over Encrypted Location Data for Range Counting Query", In 38th International Conference on Information Networking (ICOIN 2024), January 2024. 
-3. Masashi Yoshimura, <u>Taisho Sasada</u>, Yuzo Taenaka, "Enabling Memory Efficient Encrypted Database Utilizing Secure_Unsecured Area of Intel SGX", The 15th International Conference on Advances in Databases, Knowledge, and Data Applications (Accepted)
-4. <span style="color: red; ">[Best Paper Award]</span> <u>Taisho Sasada</u>, Yuzo Taenaka, Youki Kadobayashi, "DPSD: Dynamic Private Spatial Decomposition Based on Spatial and Temporal Correlations", The 7th International Conference on Smart Computing and Communication (Acceptance rate 23.81% : 25/105)
-5. <u>Taisho Sasada</u>, Yuzo Taenaka, Youki Kadobayashi, "Decoupling Statistical Trends from Data Volume on LDP-Based Spatio-Temporal Data Collection", 2022 IEEE Future Networks World Forum (Accepted)
-6. <u>Taisho Sasada</u>, Yuto Masuda, Yuzo Taenaka, Youki Kadobayashi, Doudou Fall, "Zero-Trust Access Control Focusting onlmbalanced Distribution in Browser Clickstreams ", In Proceedings of the The Eighth International Conference on Software Defined Systems (SDS2021), December 2021. DOI: 10.1109/SDS54264.2021.9732109
-7. <u>Taisho Sasada</u>, Masataka Kawai, Doudou Fall, Yuzo Taenaka, Youki Kadobayashi, "Differentially-Private Text Generation via Text Preprocessing to Reduce Utility Loss", In the 3rd International Conference on Artificial Intelligence in Information and Communication (ICAIIC 2021), April 2021. DOI: 10.1109/ICAIIC51459.2021.9415242.
-8. <u>Taisho Sasada</u>, Yuzo Taenaka, Youki Kadobayashi, "Anonymizing Location Information in Unstructured Text Using Knowledge Graph", In Proceedings of the 22nd International Conference on Information Integration and Web-based Applications & Services (iiWAS2020), November 2020. DOI: https://doi.org/10.1145/3428757.3429195
-9. <u>Taisho Sasada</u>, Zhaoyu Liu, Tokiya Baba, Kenji Hatano, Yusuke Kimura, "A resampling method for imbalanced datasets considering noise and overlap", 24th International Conference on Knowledge-Based and Intelligent Information & Engineering Systems (KES2020), September 2020. DOI:10.1016/j.procs.2020.08.043
+1. Junki Yuasa,  <u>Taisho Sasada</u>, Christophe Kienner, Gregory Blanc, Yuzo Taenaka, Youki Kadobayashi, "OIPM: Access Control Method to Prevent ID/Session Token Abuse on OpenID Connect"
+2. <span style="color: red; ">[Best Paper Award]</span>Tomoya Suzuki, <u>Taisho Sasada</u>, Yuzo Taenaka, Youki Kadobayashi, "MosaicDB: An Efficient Trusted / Untrusted Memory Management for Location Data in Database", In The Sixteenth International Conference on Advances in Databases, Knowledge, and Data Applications (DBKDA 2024), February 2024. (Accepted) (Acceptance rate 37%)
+3. <u>Taisho Sasada</u>, Nesrine Kaaniche, Maryline Laurent, Yuzo Taenaka, Youki Kadobayashi, "Differentially-Private Data Aggregation over Encrypted Location Data for Range Counting Query", In 38th International Conference on Information Networking (ICOIN 2024), January 2024. 
+4. Masashi Yoshimura, <u>Taisho Sasada</u>, Yuzo Taenaka, "Enabling Memory Efficient Encrypted Database Utilizing Secure_Unsecured Area of Intel SGX", The 15th International Conference on Advances in Databases, Knowledge, and Data Applications, March 2023. (Acceptance rate 23.81% : 25/105)
+5. <span style="color: red; ">[Best Paper Award]</span> <u>Taisho Sasada</u>, Yuzo Taenaka, Youki Kadobayashi, "DPSD: Dynamic Private Spatial Decomposition Based on Spatial and Temporal Correlations", The 7th International Conference on Smart Computing and Communication (Acceptance rate 23.81% : 25/105)
+6. <u>Taisho Sasada</u>, Yuzo Taenaka, Youki Kadobayashi, "Decoupling Statistical Trends from Data Volume on LDP-Based Spatio-Temporal Data Collection", 2022 IEEE Future Networks World Forum (Accepted)
+7. <u>Taisho Sasada</u>, Yuto Masuda, Yuzo Taenaka, Youki Kadobayashi, Doudou Fall, "Zero-Trust Access Control Focusting onlmbalanced Distribution in Browser Clickstreams ", In Proceedings of the The Eighth International Conference on Software Defined Systems (SDS2021), December 2021. DOI: 10.1109/SDS54264.2021.9732109
+8. <u>Taisho Sasada</u>, Masataka Kawai, Doudou Fall, Yuzo Taenaka, Youki Kadobayashi, "Differentially-Private Text Generation via Text Preprocessing to Reduce Utility Loss", In the 3rd International Conference on Artificial Intelligence in Information and Communication (ICAIIC 2021), April 2021. DOI: 10.1109/ICAIIC51459.2021.9415242.
+9. <u>Taisho Sasada</u>, Yuzo Taenaka, Youki Kadobayashi, "Anonymizing Location Information in Unstructured Text Using Knowledge Graph", In Proceedings of the 22nd International Conference on Information Integration and Web-based Applications & Services (iiWAS2020), November 2020. DOI: https://doi.org/10.1145/3428757.3429195
+10. <u>Taisho Sasada</u>, Zhaoyu Liu, Tokiya Baba, Kenji Hatano, Yusuke Kimura, "A resampling method for imbalanced datasets considering noise and overlap", 24th International Conference on Knowledge-Based and Intelligent Information & Engineering Systems (KES2020), September 2020. DOI:10.1016/j.procs.2020.08.043
 
 ***
 
@@ -67,6 +68,7 @@ Engaged in research on privacy-enhancing technologies. He conducts research on t
 ***
 
 ## Award
+ - Best Paper Award("OIPM: Access Control Method to Prevent ID/Session Token Abuse on OpenID Connect"), The Sixteenth International Conference on Advances in Databases, Knowledge, and Data Application (Acceptance rate 37%)
  - 2024年3月最優秀学生賞, 奈良先端科学技術大学院大学
  - 2024年3月NAIST最優秀学生賞, 公益財団法人奈良先端科学技術大学院大学支援財団 
  - 若手研究奨励賞("OpenID Connectにおけるセッショントークンの悪用に対するアクセス制御手法の提案"), 電子情報通信学会 ネットワークシステム研究会（2024年1月研究会)
