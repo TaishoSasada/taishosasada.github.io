@@ -16,12 +16,13 @@ Engaged in research on privacy-enhancing technologies. He conducts research on t
 
 
 ## International Journal (国際論文誌)
-1. <u>Taisho Sasada</u>, Masataka Kawai, Yuto Masuda, Yuzo Taenaka, Youki Kadobayashi, "Factor Analysis of Learning Motivation Difference on Cybersecurity Training with Zero Trust Architecture", IEEE Access, Vol. 11, pp. 141358 - 141374, December 2023. DOI: 10.1109/ACCESS.2023.3341093.
-2. <u>Taisho Sasada</u>, Yuzo Taenaka, Youki Kadobayashi, "Oblivious Statistic Collection With Local Differential Privacy in Mutual Distrust", IEEE Access, March 2023. DOI: 10.1109/ACCESS.2023.3251560
+1. <u>Taisho Sasada</u>, Yuzo Taenaka, Youki Kadobayashi, Doudou Fall, "Web-Biometrics for User Authenticity Verification in Zero Trust Access Control", IEEE Access, Jun 2024. (Accepted)
+2. <u>Taisho Sasada</u>, Masataka Kawai, Yuto Masuda, Yuzo Taenaka, Youki Kadobayashi, "Factor Analysis of Learning Motivation Difference on Cybersecurity Training with Zero Trust Architecture", IEEE Access, Vol. 11, pp. 141358 - 141374, December 2023. DOI: 10.1109/ACCESS.2023.3341093.
+3. <u>Taisho Sasada</u>, Yuzo Taenaka, Youki Kadobayashi, "Oblivious Statistic Collection With Local Differential Privacy in Mutual Distrust", IEEE Access, March 2023. DOI: 10.1109/ACCESS.2023.3251560
 
 ## International Conference (国際会議)
 1. Junki Yuasa,  <u>Taisho Sasada</u>, Christophe Kienner, Gregory Blanc, Yuzo Taenaka, Youki Kadobayashi, "OIPM: Access Control Method to Prevent ID/Session Token Abuse on OpenID Connect"
-2. <span style="color: red; ">[Best Paper Award]</span>Tomoya Suzuki, <u>Taisho Sasada</u>, Yuzo Taenaka, Youki Kadobayashi, "MosaicDB: An Efficient Trusted / Untrusted Memory Management for Location Data in Database", In The Sixteenth International Conference on Advances in Databases, Knowledge, and Data Applications (DBKDA 2024), February 2024. (Accepted) (Acceptance rate 37%)
+2. <span style="color: red; ">[Best Paper Award]</span> Tomoya Suzuki, <u>Taisho Sasada</u>, Yuzo Taenaka, Youki Kadobayashi, "MosaicDB: An Efficient Trusted / Untrusted Memory Management for Location Data in Database", In The Sixteenth International Conference on Advances in Databases, Knowledge, and Data Applications (DBKDA 2024), February 2024. (Accepted) (Acceptance rate 37%)
 3. <u>Taisho Sasada</u>, Nesrine Kaaniche, Maryline Laurent, Yuzo Taenaka, Youki Kadobayashi, "Differentially-Private Data Aggregation over Encrypted Location Data for Range Counting Query", In 38th International Conference on Information Networking (ICOIN 2024), January 2024. 
 4. Masashi Yoshimura, <u>Taisho Sasada</u>, Yuzo Taenaka, "Enabling Memory Efficient Encrypted Database Utilizing Secure_Unsecured Area of Intel SGX", The 15th International Conference on Advances in Databases, Knowledge, and Data Applications, March 2023. (Acceptance rate 23.81% : 25/105)
 5. <span style="color: red; ">[Best Paper Award]</span> <u>Taisho Sasada</u>, Yuzo Taenaka, Youki Kadobayashi, "DPSD: Dynamic Private Spatial Decomposition Based on Spatial and Temporal Correlations", The 7th International Conference on Smart Computing and Communication (Acceptance rate 23.81% : 25/105)
