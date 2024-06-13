@@ -62,7 +62,7 @@ Engaged in research on privacy-enhancing technologies. He conducts research on t
 ***
 
 ## Grants
-- 千手・文殊プロジェクト
+- 千手・文殊プロジェクト フェーズ１
 - JSPS research fellow PD
 - JSPS research fellow DC1
 
