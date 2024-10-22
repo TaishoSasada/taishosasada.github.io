@@ -15,7 +15,9 @@ Engaged in research on privacy-enhancing technologies. He conducts research on t
 ***
 
 
-## International Journal (国際論文誌) 3件
+## International Journal (国際論文誌) 4件
+- <u>Taisho Sasada</u>, Yuzo Taenaka, and Youki Kadobayashi, "D$^2$-PSD: Dynamic Differentially-Private Spatial Decomposition in Collaboration with Edge Server", IEEE Access, Oct 2024. (Accepted)
+
 - <u>Taisho Sasada</u>, Yuzo Taenaka, Youki Kadobayashi, Doudou Fall, "Web-Biometrics for User Authenticity Verification in Zero Trust Access Control", IEEE Access, Jun 2024. (Accepted)
 
 - <u>Taisho Sasada</u>, Masataka Kawai, Yuto Masuda, Yuzo Taenaka, Youki Kadobayashi, "Factor Analysis of Learning Motivation Difference on Cybersecurity Training with Zero Trust Architecture", IEEE Access, Vol. 11, pp. 141358 - 141374, December 2023. DOI: 10.1109/ACCESS.2023.3341093.
