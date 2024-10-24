@@ -24,7 +24,8 @@ Engaged in research on privacy-enhancing technologies. He conducts research on t
 
 - <u>Taisho Sasada</u>, Yuzo Taenaka, Youki Kadobayashi, "Oblivious Statistic Collection With Local Differential Privacy in Mutual Distrust", IEEE Access, March 2023. DOI: 10.1109/ACCESS.2023.3251560
 
-## International Conference (国際会議) 11件
+## International Conference (国際会議) 12件
+- Haruki Kanaya, Ryota Eguchi, <u>Taisho Sasada</u>, Michiko Inoue, "Almost Time-Optimal Loosely-Stabilizing Leader Election on Arbitrary Graphs Without Identifiers in Population Protocols", The 28th International Conference on Principles of Distributed Systems (OPODIS 2024), November 2024 (Accepted)
 - <u>Taisho Sasada</u>, Md Delwar Hossain, Yuzo Taenaka, Md. Mahbubur Rahman and Youki Kadobayashi, "Secure Federated Matrix Factorization via Shuffling Encrypted Parameters between Devices", The 16th International Conference on Intelligent Networking and Collaborative Systems (INCoS 2024), September 2024 (Accepted)
 
 - Junki Yuasa,  <u>Taisho Sasada</u>, Christophe Kienner, Gregory Blanc, Yuzo Taenaka, Youki Kadobayashi, "OIPM: Access Control Method to Prevent ID/Session Token Abuse on OpenID Connect", In 21st International Conference on Security and Cryptography (SECRYPT 2024), July 2024 (Accepted)
