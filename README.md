@@ -51,7 +51,7 @@ Engaged in research on privacy-enhancing technologies. He conducts research on t
 
 ***
 
-## Domestic Conference (国内研究会) 15件
+## Domestic Conference (国内研究会) 17件
 - 金谷　温貴, 江口　僚太, <u>笹田　大翔</u>, 井上　美智子, "個体群プロトコルにおけるほぼ時間最適な匿名任意グラフ上の緩安定なリーダー選挙", 情報科学ワークショップ, pp. 7-14, 2024年9月.
 
 - <span style="color: red; ">[優秀プレゼンテーション賞]</span>　山﨑　心, 江口　僚太, <u>笹田　大翔</u>, 井上　美智子, "個体群プロトコルにおける​個体数の上界Nを用いた​緩安定ランキング ", 情報科学ワークショップ, pp. 1-6, 2024年9月.
