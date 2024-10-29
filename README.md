@@ -111,6 +111,7 @@ Engaged in research on privacy-enhancing technologies. He conducts research on t
 ***
 
 ## Award
+ - 優秀プレゼンテーション賞　(“個体群プロトコルにおける​個体数の上界Nを用いた​緩安定ランキング“), 情報科学ワークショップ2024
  - Best Paper Award ("MosaicDB: An Efficient Trusted / Untrusted Memory Management for Location Data in Database"), The Sixteenth International Conference on Advances in Databases, Knowledge, and Data Application (Acceptance rate 37%)
  - 2024年3月最優秀学生賞, 奈良先端科学技術大学院大学
  - 2024年3月NAIST最優秀学生賞, 公益財団法人奈良先端科学技術大学院大学支援財団 
