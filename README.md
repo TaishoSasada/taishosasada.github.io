@@ -85,6 +85,12 @@ Engaged in research on privacy-enhancing technologies. He conducts research on t
 ***
 
 ## Lectures
+- 2024
+  - サマーセミナー (テキスト分析からのプライバシ漏洩を阻止しよう)
+  - スーパーサイエンスハイスクール ラボステイ  (西大和学園) 
+
+- 2022
+  - Trusted Execution Environment (Fall 2022, IPA ICSCoE Program)
 
 - 2021
   - Zero Trust Access Control / ゼロトラストアクセス制御 (Fall 2021, IPA ICSCoE Program)
@@ -93,7 +99,8 @@ Engaged in research on privacy-enhancing technologies. He conducts research on t
 ***
 
 ## Grants
-- 千手・文殊プロジェクト フェーズ１
+- 公益財団法人電気通信普及財団　海外渡航旅費援助
+- 第一三共「はばたく次世代」応援寄付プログラム　NAIST 千手文殊プロジェクト フェーズ１
 - JSPS research fellow PD
 - JSPS research fellow DC1
 
