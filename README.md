@@ -18,35 +18,36 @@ Engaged in research on privacy-enhancing technologies. He conducts research on t
 ## International Journal (国際論文誌) 4件
 - <u>Taisho Sasada</u>, Yuzo Taenaka, and Youki Kadobayashi, "D$^2$-PSD: Dynamic Differentially-Private Spatial Decomposition in Collaboration with Edge Server", IEEE Access, Oct 2024. (Accepted)
 
-- <u>Taisho Sasada</u>, Yuzo Taenaka, Youki Kadobayashi, Doudou Fall, "Web-Biometrics for User Authenticity Verification in Zero Trust Access Control", IEEE Access, Jun 2024. (Accepted)
+- <u>Taisho Sasada</u>, Yuzo Taenaka, Youki Kadobayashi, Doudou Fall, "Web-Biometrics for User Authenticity Verification in Zero Trust Access Control", IEEE Access, Vol. 12, pp. 129611 - 129622, June 2024. DOI: 10.1109/ACCESS.2024.3413696.
 
 - <u>Taisho Sasada</u>, Masataka Kawai, Yuto Masuda, Yuzo Taenaka, Youki Kadobayashi, "Factor Analysis of Learning Motivation Difference on Cybersecurity Training with Zero Trust Architecture", IEEE Access, Vol. 11, pp. 141358 - 141374, December 2023. DOI: 10.1109/ACCESS.2023.3341093.
 
-- <u>Taisho Sasada</u>, Yuzo Taenaka, Youki Kadobayashi, "Oblivious Statistic Collection With Local Differential Privacy in Mutual Distrust", IEEE Access, March 2023. DOI: 10.1109/ACCESS.2023.3251560
+- <u>Taisho Sasada</u>, Yuzo Taenaka, Youki Kadobayashi, "Oblivious Statistic Collection With Local Differential Privacy in Mutual Distrust", IEEE Access, Vol. 11, pp. 21374 - 21386, March 2023. DOI: 10.1109/ACCESS.2023.3251560
 
 ## International Conference (国際会議) 12件
 - Haruki Kanaya, Ryota Eguchi, <u>Taisho Sasada</u>, Michiko Inoue, "Almost Time-Optimal Loosely-Stabilizing Leader Election on Arbitrary Graphs Without Identifiers in Population Protocols", The 28th International Conference on Principles of Distributed Systems (OPODIS 2024), November 2024 (Accepted)
-- <u>Taisho Sasada</u>, Md Delwar Hossain, Yuzo Taenaka, Md. Mahbubur Rahman and Youki Kadobayashi, "Secure Federated Matrix Factorization via Shuffling Encrypted Parameters between Devices", The 16th International Conference on Intelligent Networking and Collaborative Systems (INCoS 2024), September 2024 (Accepted)
+  
+- <u>Taisho Sasada</u>, Md Delwar Hossain, Yuzo Taenaka, Md. Mahbubur Rahman and Youki Kadobayashi, "Secure Federated Matrix Factorization via Shuffling Encrypted Parameters between Devices", The 16th International Conference on Intelligent Networking and Collaborative Systems (INCoS 2024), pp.107-119, September 2024. DOI: 10.1007/978-3-031-72322-3_11
 
-- Junki Yuasa,  <u>Taisho Sasada</u>, Christophe Kienner, Gregory Blanc, Yuzo Taenaka, Youki Kadobayashi, "OIPM: Access Control Method to Prevent ID/Session Token Abuse on OpenID Connect", In 21st International Conference on Security and Cryptography (SECRYPT 2024), July 2024 (Accepted)
+- Junki Yuasa,  <u>Taisho Sasada</u>, Christophe Kienner, Gregory Blanc, Yuzo Taenaka, Youki Kadobayashi, "OIPM: Access Control Method to Prevent ID/Session Token Abuse on OpenID Connect", In 21st International Conference on Security and Cryptography (SECRYPT 2024), pp.674-679, July 2024. DOI:10.5220/0012757900003767
 
-- <span style="color: red; ">[Best Paper Award]</span> Tomoya Suzuki, <u>Taisho Sasada</u>, Yuzo Taenaka, Youki Kadobayashi, "MosaicDB: An Efficient Trusted / Untrusted Memory Management for Location Data in Database", In The Sixteenth International Conference on Advances in Databases, Knowledge, and Data Applications (DBKDA 2024), February 2024. (Accepted) (Acceptance rate 37%)
+- <span style="color: red; ">[Best Paper Award]</span> Tomoya Suzuki, <u>Taisho Sasada</u>, Yuzo Taenaka, Youki Kadobayashi, "MosaicDB: An Efficient Trusted / Untrusted Memory Management for Location Data in Database", In The Sixteenth International Conference on Advances in Databases, Knowledge, and Data Applications (DBKDA 2024), pp.1-6, February 2024. (Acceptance rate 37%)
 
-- <u>Taisho Sasada</u>, Nesrine Kaaniche, Maryline Laurent, Yuzo Taenaka, Youki Kadobayashi, "Differentially-Private Data Aggregation over Encrypted Location Data for Range Counting Query", In 38th International Conference on Information Networking (ICOIN 2024), January 2024. 
+- <u>Taisho Sasada</u>, Nesrine Kaaniche, Maryline Laurent, Yuzo Taenaka, Youki Kadobayashi, "Differentially-Private Data Aggregation over Encrypted Location Data for Range Counting Query", In 38th International Conference on Information Networking (ICOIN 2024), pp.409-414, January 2024. DOI:10.1109/ICOIN59985.2024.10572074
 
-- Masashi Yoshimura, <u>Taisho Sasada</u>, Yuzo Taenaka, "Enabling Memory Efficient Encrypted Database Utilizing Secure_Unsecured Area of Intel SGX", The 15th International Conference on Advances in Databases, Knowledge, and Data Applications, March 2023. (Acceptance rate 23.81% : 25/105)
+- Masashi Yoshimura, <u>Taisho Sasada</u>, Yuzo Taenaka, "Enabling Memory Efficient Encrypted Database Utilizing Secure_Unsecured Area of Intel SGX", The 15th International Conference on Advances in Databases, Knowledge, and Data Applications (DBKDA 2023), pp.38-43, March 2023. (Acceptance rate 29%)
 
-- <span style="color: red; ">[Best Paper Award]</span> <u>Taisho Sasada</u>, Yuzo Taenaka, Youki Kadobayashi, "DPSD: Dynamic Private Spatial Decomposition Based on Spatial and Temporal Correlations", The 7th International Conference on Smart Computing and Communication (Acceptance rate 23.81% : 25/105)
+- <span style="color: red; ">[Best Paper Award]</span> <u>Taisho Sasada</u>, Yuzo Taenaka, Youki Kadobayashi, "DPSD: Dynamic Private Spatial Decomposition Based on Spatial and Temporal Correlations", The 7th International Conference on Smart Computing and Communication (SmartCom 2022), pp. 188-202, Nov 2022. DOI:10.1007/978-3-031-28124-2_18 (Acceptance rate 23.81% : 25/105)
 
-- <u>Taisho Sasada</u>, Yuzo Taenaka, Youki Kadobayashi, "Decoupling Statistical Trends from Data Volume on LDP-Based Spatio-Temporal Data Collection", 2022 IEEE Future Networks World Forum (Accepted)
+- <u>Taisho Sasada</u>, Yuzo Taenaka, Youki Kadobayashi, "Decoupling Statistical Trends from Data Volume on LDP-Based Spatio-Temporal Data Collection", 2022 IEEE Future Networks World Forum (FNWF 2022), pp. 262-269, Oct 2022.
 
-- <u>Taisho Sasada</u>, Yuto Masuda, Yuzo Taenaka, Youki Kadobayashi, Doudou Fall, "Zero-Trust Access Control Focusting onlmbalanced Distribution in Browser Clickstreams ", In Proceedings of the The Eighth International Conference on Software Defined Systems (SDS2021), December 2021. DOI: 10.1109/SDS54264.2021.9732109
+- <u>Taisho Sasada</u>, Yuto Masuda, Yuzo Taenaka, Youki Kadobayashi, Doudou Fall, "Zero-Trust Access Control Focusing on Imbalanced Distribution in Browser Clickstreams", In Proceedings of the The Eighth International Conference on Software Defined Systems (SDS2021), pp. 1-8, December 2021. DOI: 10.1109/SDS54264.2021.9732109
 
-- <u>Taisho Sasada</u>, Masataka Kawai, Doudou Fall, Yuzo Taenaka, Youki Kadobayashi, "Differentially-Private Text Generation via Text Preprocessing to Reduce Utility Loss", In the 3rd International Conference on Artificial Intelligence in Information and Communication (ICAIIC 2021), April 2021. DOI: 10.1109/ICAIIC51459.2021.9415242.
+- <u>Taisho Sasada</u>, Masataka Kawai, Doudou Fall, Yuzo Taenaka, Youki Kadobayashi, "Differentially-Private Text Generation via Text Preprocessing to Reduce Utility Loss", In the 3rd International Conference on Artificial Intelligence in Information and Communication (ICAIIC 2021), April 2021. DOI: 10.1109/ICAIIC51459.2021.9415242
 
-- <u>Taisho Sasada</u>, Yuzo Taenaka, Youki Kadobayashi, "Anonymizing Location Information in Unstructured Text Using Knowledge Graph", In Proceedings of the 22nd International Conference on Information Integration and Web-based Applications & Services (iiWAS2020), November 2020. DOI: https://doi.org/10.1145/3428757.3429195
+- <u>Taisho Sasada</u>, Yuzo Taenaka, Youki Kadobayashi, "Anonymizing Location Information in Unstructured Text Using Knowledge Graph", In Proceedings of the 22nd International Conference on Information Integration and Web-based Applications & Services (iiWAS2020), pp. 163-167, November 2020. DOI:10.1145/3428757.3429195
 
-- <u>Taisho Sasada</u>, Zhaoyu Liu, Tokiya Baba, Kenji Hatano, Yusuke Kimura, "A resampling method for imbalanced datasets considering noise and overlap", 24th International Conference on Knowledge-Based and Intelligent Information & Engineering Systems (KES2020), September 2020. DOI:10.1016/j.procs.2020.08.043
+- <u>Taisho Sasada</u>, Zhaoyu Liu, Tokiya Baba, Kenji Hatano, Yusuke Kimura, "A resampling method for imbalanced datasets considering noise and overlap", 24th International Conference on Knowledge-Based and Intelligent Information & Engineering Systems (KES2020), pp. 420-429, September 2020. DOI:10.1016/j.procs.2020.08.043
 
 ***
 
