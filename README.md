@@ -103,10 +103,12 @@ Engaged in research on privacy-enhancing technologies. He conducts research on t
 ***
 
 ## Grants
-- 公益財団法人電気通信普及財団　海外渡航旅費援助
-- 第一三共「はばたく次世代」応援寄付プログラム　NAIST 千手文殊プロジェクト フェーズ１
-- JSPS research fellow PD
-- JSPS research fellow DC1
+- Google Japan Cyber Security Research Award (4,500,000 JPY)
+- 公益財団法人 栢森情報科学振興財団 研究助成 (1,000,000 JPY)
+- 公益財団法人電気通信普及財団　海外渡航旅費援助 (110,000 JPY)
+- 第一三共「はばたく次世代」応援寄付プログラム　NAIST 千手文殊プロジェクト フェーズ１ (200,000)
+- JSPS research fellow PD (800,000 JPY)
+- JSPS research fellow DC1 (1,700,000 JPY)
 
 ***
 
