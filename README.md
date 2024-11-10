@@ -5,11 +5,11 @@
 
 
 ## whoami?
-<p><img src="./cv/tsasada.jpg" width="190" align="right" title="Photographed at Venice in Mar. 2023">Taisho Sasada is an Assistant Professor at Nara Institute of Science and Technology (NAIST). He received B.S. in culture and information science from Doshisha University (Media Informatics Laboratory) in 2020, and his M.E, and Ph.D (engineering) from NAIST (Laboratory for Cyber Resilience) in 2021 and 2024, respectively. From 2022 to 2024, he was a JSPS research Fellow (DC1 & PD), and he joined Dependable Systems Lab at NAIST in May. 2024. From Jan. to Apr. in 2023, he was also a visiting researcher of Télécom SudParis. He was also an IPA lecturer, lecturing on Privacy-Enhancing Technologies and Zero Trust Access Control, and was in charge of hands-on.</p>
+<p><img src="./cv/tsasada.jpg" width="190" align="right" title="Photographed at Venice in Mar. 2023">Taisho Sasada is an Assistant Professor at Nara Institute of Science and Technology (NAIST). He received his B.S. in Culture and Information Science from Doshisha University (Media Informatics Laboratory) in 2020, and his M.E. and Ph.D. in Engineering from NAIST (Laboratory for Cyber Resilience) in 2021 and 2024, respectively. From 2022 to 2024, he was a JSPS Research Fellow (DC1 & PD), and he joined the Dependable Systems Lab at NAIST in May 2024. From January to April 2023, he was a visiting researcher at Télécom SudParis. He has also served as an IPA lecturer, teaching Privacy-Enhancing Technologies and Zero Trust Access Control, including hands-on training.</p>
 
 
 ## Research Interest
-Engaged in research on privacy-enhancing technologies. He conducts research on technologies for protecting text data and spatio-temporal data with central/local differential privacy, and on networks that dynamically control access to sensitive data using web-biometrics. He also conducts research on intrusion detection using machine/deep learning and basic research on data engineering.
+His research focuses on privacy-enhancing technologies, particularly the protection of text and spatio-temporal data using central/local differential privacy. He investigates dynamic access control systems for sensitive data utilizing web-biometrics, as well as intrusion detection methods based on machine learning and deep learning. His work also encompasses fundamental research in data engineering.
 
 
 ***
@@ -104,22 +104,34 @@ Engaged in research on privacy-enhancing technologies. He conducts research on t
 
 ## Grants
 - Google Japan Cyber Security Research Award (4,500,000 JPY)
+  
 - 公益財団法人 栢森情報科学振興財団 研究助成 (1,000,000 JPY)
+  
 - 公益財団法人電気通信普及財団　海外渡航旅費援助 (110,000 JPY)
+  
 - 第一三共「はばたく次世代」応援寄付プログラム　NAIST 千手文殊プロジェクト フェーズ１ (200,000)
+  
 - JSPS research fellow PD (800,000 JPY)
+  
 - JSPS research fellow DC1 (1,700,000 JPY)
 
 ***
 
 ## Award
  - 優秀プレゼンテーション賞　(“個体群プロトコルにおける​個体数の上界Nを用いた​緩安定ランキング“), 情報科学ワークショップ2024
+   
  - Best Paper Award ("MosaicDB: An Efficient Trusted / Untrusted Memory Management for Location Data in Database"), The Sixteenth International Conference on Advances in Databases, Knowledge, and Data Application (Acceptance rate 37%)
+   
  - 2024年3月最優秀学生賞, 奈良先端科学技術大学院大学
- - 2024年3月NAIST最優秀学生賞, 公益財団法人奈良先端科学技術大学院大学支援財団 
+   
+ - 2024年3月NAIST最優秀学生賞, 公益財団法人奈良先端科学技術大学院大学支援財団
+   
  - 若手研究奨励賞 ("OpenID Connectにおけるセッショントークンの悪用に対するアクセス制御手法の提案"), 電子情報通信学会 ネットワークシステム研究会（2024年1月研究会)
+   
  - 若手研究奨励賞 ("ゼロトラストアクセス制御のための行動的・認知的バイオメトリクスを用いたユーザ真正性検証手法"), 電子情報通信学会 ネットワークシステム研究会（2023年1月研究会)
+   
  - Best Paper Award ("DPSD: Dynamic Private Spatial Decomposition Based on Spatial and Temporal Correlations"), The 7th International Conference on Smart Computing and Communication (Acceptance rate 23.81% : 25/105)
+   
  - 学生奨励賞 ("データの複雑性を考慮した不均衡データに対するリサンプリング手法"), 第82回全国大会講演論文集
 
 ***
