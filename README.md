@@ -24,7 +24,9 @@ His research focuses on privacy-enhancing technologies, particularly the protect
 
 - <u>Taisho Sasada</u>, Yuzo Taenaka, Youki Kadobayashi, "Oblivious Statistic Collection With Local Differential Privacy in Mutual Distrust", IEEE Access, Vol. 11, pp. 21374 - 21386, March 2023. DOI: 10.1109/ACCESS.2023.3251560
 
-## International Conference (国際会議) 13件
+## International Conference (国際会議) 14件
+- <u>Taisho Sasada</u>, Bernard Ousmane Sané, "Memory-Saving Oblivious RAM for Trajectory Data via Hierarchical Generation of Dummy Access over Untrusted Cloud Environment", 2025 International Conference on Information Systems Security and Privacy (ICISSP 2025), February 2025 (Accepted)
+
 - Toi Ooka, <u>Taisho Sasada</u>, Ryousuke Abe, Yuzo Taenaka, Youki Kadobayashi, and Shigeya Suzuki, "Extended ACME Protocol with Time-Limited VC Tokens for Automated Organization Validation", In 39th International Conference on Information Networking (ICOIN 2025), January 2025 (Accepted)
 
 - Haruki Kanaya, Ryota Eguchi, <u>Taisho Sasada</u>, Michiko Inoue, "Almost Time-Optimal Loosely-Stabilizing Leader Election on Arbitrary Graphs Without Identifiers in Population Protocols", The 28th International Conference on Principles of Distributed Systems (OPODIS 2024), November 2024 (Accepted)
