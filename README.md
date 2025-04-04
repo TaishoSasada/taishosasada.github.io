@@ -5,7 +5,7 @@
 
 
 ## whoami?
-<p><img src="./cv/tsasada.jpg" width="180" align="right" title="Photographed at Venice in Mar. 2023">Taisho Sasada is an Assistant Professor at Nara Institute of Science and Technology (NAIST). He received his B.S. in Culture and Information Science from Doshisha University (Media Informatics Laboratory) in 2020, and his M.E. and Ph.D. in Engineering from NAIST (Laboratory for Cyber Resilience) in 2021 and 2024, respectively. From 2022 to 2024, he was a JSPS Research Fellow (DC1 & PD), and he joined the Dependable Systems Lab at NAIST in May 2024. From January to April 2023, he was a visiting researcher at Télécom SudParis. He has also served as an IPA lecturer, teaching Privacy-Enhancing Technologies and Zero Trust Access Control, including hands-on training.</p>
+<p><img src="./cv/tsasada.jpg" width="200" align="right" title="Photographed at Venice in Mar. 2023">Taisho Sasada is an Assistant Professor at Nara Institute of Science and Technology (NAIST). He received his B.S. in Culture and Information Science from Doshisha University (Media Informatics Laboratory) in 2020, and his M.E. and Ph.D. in Engineering from NAIST (Laboratory for Cyber Resilience) in 2021 and 2024, respectively. From 2022 to 2024, he was a JSPS Research Fellow (DC1 & PD), and he joined the Dependable Systems Lab at NAIST in May 2024. From January to April 2023, he was a visiting researcher at Télécom SudParis. He has also served as an IPA lecturer, teaching Privacy-Enhancing Technologies and Zero Trust Access Control, including hands-on training.</p>
 
 
 ### Research Interest
