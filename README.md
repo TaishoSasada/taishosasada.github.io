@@ -1,4 +1,4 @@
-# Taisho SASADA (笹田 大翔)
+# Taisho SASADA (笹田 大翔), Ph.D
 
 
 ***
@@ -10,6 +10,12 @@
 
 ## Research Interest
 His research focuses on privacy-enhancing technologies, particularly the protection of text and spatio-temporal data using central/local differential privacy. He investigates dynamic access control systems for sensitive data utilizing web-biometrics, as well as intrusion detection methods based on machine learning and deep learning. His work also encompasses fundamental research in data engineering.
+
+### Contact
+
+Dependable System Laboratory   
+Address: 4th Floor, Building B, 8916-5 Takayama-cho, Ikoma, Nara 630-0192, JAPAN
+E-mail: taisho.sasada[at]naist.ac.jp
 
 
 ***
@@ -148,6 +154,3 @@ His research focuses on privacy-enhancing technologies, particularly the protect
 
 ***
 
-## Contact
-
-Please found email in my recent papers.
