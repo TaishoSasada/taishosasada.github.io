@@ -1,0 +1,8 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.title, h1.header, #title {
+  display: none !important;
+}
