@@ -1,8 +1,11 @@
 ---
 ---
-
 @import "{{ site.theme }}";
 
 .title, h1.header, #title {
+  display: none !important;
+}
+
+.btn, #view-on-github {
   display: none !important;
 }
