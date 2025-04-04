@@ -8,20 +8,21 @@
 <p><img src="./cv/tsasada.jpg" width="190" align="right" title="Photographed at Venice in Mar. 2023">Taisho Sasada is an Assistant Professor at Nara Institute of Science and Technology (NAIST). He received his B.S. in Culture and Information Science from Doshisha University (Media Informatics Laboratory) in 2020, and his M.E. and Ph.D. in Engineering from NAIST (Laboratory for Cyber Resilience) in 2021 and 2024, respectively. From 2022 to 2024, he was a JSPS Research Fellow (DC1 & PD), and he joined the Dependable Systems Lab at NAIST in May 2024. From January to April 2023, he was a visiting researcher at Télécom SudParis. He has also served as an IPA lecturer, teaching Privacy-Enhancing Technologies and Zero Trust Access Control, including hands-on training.</p>
 
 
-## Research Interest
+### Research Interest
 His research focuses on privacy-enhancing technologies, particularly the protection of text and spatio-temporal data using central/local differential privacy. He investigates dynamic access control systems for sensitive data utilizing web-biometrics, as well as intrusion detection methods based on machine learning and deep learning. His work also encompasses fundamental research in data engineering.
 
 ### Contact
 
-Dependable System Laboratory   
-Address: 4th Floor, Building B, 8916-5 Takayama-cho, Ikoma, Nara 630-0192, JAPAN
-E-mail: taisho.sasada[at]naist.ac.jp
+- Dependable System Laboratory   
+- Address: 4th Floor, Building B, 8916-5 Takayama-cho, Ikoma, Nara 630-0192, JAPAN
+- E-mail: taisho.sasada[at]naist.ac.jp
 
 
 ***
 
+## Publication (論文)
 
-## International Journal (国際論文誌) 4件
+### International Journal (国際論文誌) 4件
 - <u>Taisho Sasada</u>, Yuzo Taenaka, and Youki Kadobayashi, "D$^2$-PSD: Dynamic Differentially-Private Spatial Decomposition in Collaboration with Edge Server", IEEE Access, Oct 2024. (Accepted)
 
 - <u>Taisho Sasada</u>, Yuzo Taenaka, Youki Kadobayashi, Doudou Fall, "Web-Biometrics for User Authenticity Verification in Zero Trust Access Control", IEEE Access, Vol. 12, pp. 129611 - 129622, June 2024. DOI: 10.1109/ACCESS.2024.3413696.
@@ -30,7 +31,7 @@ E-mail: taisho.sasada[at]naist.ac.jp
 
 - <u>Taisho Sasada</u>, Yuzo Taenaka, Youki Kadobayashi, "Oblivious Statistic Collection With Local Differential Privacy in Mutual Distrust", IEEE Access, Vol. 11, pp. 21374 - 21386, March 2023. DOI: 10.1109/ACCESS.2023.3251560
 
-## International Conference (国際会議) 14件
+### International Conference (国際会議) 14件
 - <u>Taisho Sasada</u>, Bernard Ousmane Sané, "Memory-Saving Oblivious RAM for Trajectory Data via Hierarchical Generation of Dummy Access over Untrusted Cloud Environment", 2025 International Conference on Information Systems Security and Privacy (ICISSP 2025), February 2025 (Accepted)
 
 - Toi Ooka, <u>Taisho Sasada</u>, Ryousuke Abe, Yuzo Taenaka, Youki Kadobayashi, and Shigeya Suzuki, "Extended ACME Protocol with Time-Limited VC Tokens for Automated Organization Validation", In 39th International Conference on Information Networking (ICOIN 2025), January 2025 (Accepted)
@@ -61,7 +62,7 @@ E-mail: taisho.sasada[at]naist.ac.jp
 
 ***
 
-## Domestic Conference (国内研究会) 17件
+### Domestic Conference (国内研究会) 17件
 - 金谷　温貴, 江口　僚太, <u>笹田　大翔</u>, 井上　美智子, "個体群プロトコルにおけるほぼ時間最適な匿名任意グラフ上の緩安定なリーダー選挙", 情報科学ワークショップ, pp. 7-14, 2024年9月.
 
 - <span style="color: red; ">[優秀プレゼンテーション賞]</span>　山﨑　心, 江口　僚太, <u>笹田　大翔</u>, 井上　美智子, "個体群プロトコルにおける​個体数の上界Nを用いた​緩安定ランキング ", 情報科学ワークショップ, pp. 1-6, 2024年9月.
