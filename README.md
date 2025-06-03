@@ -31,7 +31,9 @@ His research focuses on privacy-enhancing technologies, particularly the protect
 
 - <u>Taisho Sasada</u>, Yuzo Taenaka, Youki Kadobayashi, "Oblivious Statistic Collection With Local Differential Privacy in Mutual Distrust", IEEE Access, Vol. 11, pp. 21374 - 21386, March 2023. DOI: 10.1109/ACCESS.2023.3251560
 
-### International Conference (国際会議) 15件
+### International Conference (国際会議) 16件
+
+- <u>Taisho Sasada</u>, Christophe Kiennert, Gregory Blanc, Yuzo Taenaka, and Youki Kadobayashi, "Dynamic Transmission Scheduling Method for High-Concurrent Zero Trust Access Control", The 22th International Workshop on Trust, Privacy and Security in the Digital Society (Trustbus 2025), August 2025 (Accepted)
 
 - Haruki Kanaya, Ryota Eguchi, <u>Taisho Sasada</u>, Michiko Inoue, "Time- and Space-Optimal Silent Self-Stabilizing Exact Majority in Population Protocols", The 26th International Symposium on Stabilization, Safety, and Security of Distributed Systems (SSS2025), October 2025 (Accepted)
 
