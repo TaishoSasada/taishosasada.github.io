@@ -22,7 +22,9 @@ His research focuses on privacy-enhancing technologies, particularly the protect
 
 ## Publication (論文)
 
-### International Journal (国際論文誌) 4件
+### International Journal (国際論文誌) 5件
+- <u>Taisho Sasada</u>, Md Delwar Hossain, Yuzo Taenaka, Md. Mahbubur Rahman and Youki Kadobayashi, "Secure Federated Matrix Factorization via Device to Device Model Shuffling", IEEE Access, July 2025. (Accepted)
+
 - <u>Taisho Sasada</u>, Yuzo Taenaka, and Youki Kadobayashi, "D$^2$-PSD: Dynamic Differentially-Private Spatial Decomposition in Collaboration with Edge Server", IEEE Access, Oct 2024. (Accepted)
 
 - <u>Taisho Sasada</u>, Yuzo Taenaka, Youki Kadobayashi, Doudou Fall, "Web-Biometrics for User Authenticity Verification in Zero Trust Access Control", IEEE Access, Vol. 12, pp. 129611 - 129622, June 2024. DOI: 10.1109/ACCESS.2024.3413696.
