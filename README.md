@@ -35,7 +35,7 @@ His research focuses on privacy-enhancing technologies, particularly the protect
 
 ### International Conference (国際会議) 16件
 
-- <u>Taisho Sasada</u>, Christophe Kiennert, Gregory Blanc, Yuzo Taenaka, and Youki Kadobayashi, "Dynamic Transmission Scheduling Method for High-Concurrent Zero Trust Access Control", The 22th International Workshop on Trust, Privacy and Security in the Digital Society (Trustbus 2025), August 2025 (Accepted)
+- <u>Taisho Sasada</u>, Christophe Kiennert, Gregory Blanc, Yuzo Taenaka, and Youki Kadobayashi, "Dynamic Transmission Scheduling Method for High-Concurrent Zero Trust Access Control", 20th International Conference on Availability, Reliability and Security (ARES 2025), August 2025 (Accepted)
 
 - Haruki Kanaya, Ryota Eguchi, <u>Taisho Sasada</u>, Michiko Inoue, "Time- and Space-Optimal Silent Self-Stabilizing Exact Majority in Population Protocols", The 26th International Symposium on Stabilization, Safety, and Security of Distributed Systems (SSS2025), October 2025 (Accepted)
 
