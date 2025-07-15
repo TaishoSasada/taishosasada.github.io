@@ -109,6 +109,10 @@ His research focuses on privacy-enhancing technologies, particularly the protect
 ***
 
 ## Lectures
+- 2025
+  - ディペンダブルシステム学先端技術調査
+  - ディペンダブルシステム学先端技術実践 
+
 - 2024
   - サマーセミナー (テキスト分析からのプライバシ漏洩を阻止しよう)
   - スーパーサイエンスハイスクール ラボステイ  (西大和学園) 
