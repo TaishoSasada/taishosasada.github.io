@@ -69,7 +69,12 @@ His research focuses on privacy-enhancing technologies, particularly the protect
 
 ***
 
-### Domestic Conference (国内研究会) 18件
+### Domestic Conference (国内研究会) 20件
+
+- Md. Sihabul Islam, <u>Taisho Sasada</u>, Michiko Inoue, "Fault-Injected Weight-Adjusting Training for Reliable Memristor-Based Neural Networks", デザインガイア2025 -VLSI設計の新しい大地-, 2025年12月
+
+- 金谷　温貴, 江口 僚太, <u>笹田 大翔</u>, 大下 福仁, 井上 美智子, "個体群プロトコルにおける時間効率的な一様k分割", 情報科学ワークショップ, 2025年9月.
+
 - 山﨑 心, 江口 僚太, <u>笹田 大翔</u>, 大下 福仁, 井上 美智子, "個体群プロトコルにおける個体数の上界Nを用いた緩安定ランキング", 第202回アルゴリズム研究発表会.
 
 - 金谷　温貴, 江口 僚太, <u>笹田 大翔</u>, 大下 福仁, 井上 美智子, "個体群プロトコルにおけるほぼ時間最適な匿名任意グラフ上の緩安定なリーダー選挙", 情報科学ワークショップ, pp. 7-14, 2024年9月.
