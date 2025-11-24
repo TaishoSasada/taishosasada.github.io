@@ -35,7 +35,7 @@ His research focuses on privacy-enhancing technologies, particularly the protect
 
 ### International Conference (国際会議) 17件
 
-- Valerie Megan, <u>Taisho Sasada</u>, Yuzo Taenaka, Youki Kadobayashi, "The Illusion of Authenticity: Analyzing Emergent Behaviors in Human & Virtual Influencers Through Layer Decomposition & Conceptual Drift ", The 3rd International Conference on Security and Information Technologies with AI, Internet Computing and Big-data Applications (SITAIBA : 2025), Octorber 2025 (Accepted)
+- Valerie Megan, <u>Taisho Sasada</u>, Yuzo Taenaka, Youki Kadobayashi, "The Illusion of Authenticity: Analyzing Emergent Behaviors in Human & Virtual Influencers Through Layer Decomposition & Conceptual Drift", The 3rd International Conference on Security and Information Technologies with AI, Internet Computing and Big-data Applications (SITAIBA 2025), Octorber 2025 (Accepted)
 
 - <u>Taisho Sasada</u>, Christophe Kiennert, Gregory Blanc, Yuzo Taenaka, and Youki Kadobayashi, "Dynamic Transmission Scheduling Method for High-Concurrent Zero Trust Access Control", 20th International Conference on Availability, Reliability and Security (ARES 2025), August 2025 (Accepted)
 
@@ -149,9 +149,13 @@ His research focuses on privacy-enhancing technologies, particularly the protect
 ***
 
 ## Award
+ - Best Paper Award ("The Illusion of Authenticity: Analyzing Emergent Behaviors in Human & Virtual Influencers Through Layer Decomposition & Conceptual Drift"), The 3rd International Conference on Security and Information Technologies with AI, Internet Computing and Big-data Applications
+ 
+ - 優秀研究賞　(“個体群プロトコルにおける時間効率的な一様k分割“), 情報科学ワークショップ2025
+
  - 優秀プレゼンテーション賞　(“個体群プロトコルにおける​個体数の上界Nを用いた​緩安定ランキング“), 情報科学ワークショップ2024
    
- - Best Paper Award ("MosaicDB: An Efficient Trusted / Untrusted Memory Management for Location Data in Database"), The Sixteenth International Conference on Advances in Databases, Knowledge, and Data Application (Acceptance rate 37%)
+ - Best Paper Award ("MosaicDB: An Efficient Trusted / Untrusted Memory Management for Location Data in Database"), The Sixteenth International Conference on Advances in Databases, Knowledge, and Data Application 
    
  - 2024年3月最優秀学生賞, 奈良先端科学技術大学院大学
    
@@ -161,7 +165,7 @@ His research focuses on privacy-enhancing technologies, particularly the protect
    
  - 若手研究奨励賞 ("ゼロトラストアクセス制御のための行動的・認知的バイオメトリクスを用いたユーザ真正性検証手法"), 電子情報通信学会 ネットワークシステム研究会（2023年1月研究会)
    
- - Best Paper Award ("DPSD: Dynamic Private Spatial Decomposition Based on Spatial and Temporal Correlations"), The 7th International Conference on Smart Computing and Communication (Acceptance rate 23.81% : 25/105)
+ - Best Paper Award ("DPSD: Dynamic Private Spatial Decomposition Based on Spatial and Temporal Correlations"), The 7th International Conference on Smart Computing and Communication
    
  - 学生奨励賞 ("データの複雑性を考慮した不均衡データに対するリサンプリング手法"), 第82回全国大会講演論文集
 
