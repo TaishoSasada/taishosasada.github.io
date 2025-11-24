@@ -117,6 +117,8 @@ His research focuses on privacy-enhancing technologies, particularly the protect
 
 ## Lectures
 - 2025
+  - 情報セキュリティ (同志社大学)
+  - プログラミング基礎 (同志社大学)
   - ディペンダブルシステム学先端技術調査
   - ディペンダブルシステム学先端技術実践 
 
