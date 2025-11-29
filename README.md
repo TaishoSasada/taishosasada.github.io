@@ -35,7 +35,7 @@ His research focuses on privacy-enhancing technologies, particularly the protect
 
 ### International Conference (国際会議) 17件
 
-- Valerie Megan, <u>Taisho Sasada</u>, Yuzo Taenaka, Youki Kadobayashi, "The Illusion of Authenticity: Analyzing Emergent Behaviors in Human & Virtual Influencers Through Layer Decomposition & Conceptual Drift", The 3rd International Conference on Security and Information Technologies with AI, Internet Computing and Big-data Applications (SITAIBA 2025), Octorber 2025 (Accepted)
+- <span style="color: red; ">[Best Paper Award], [Best Oral Presentation Award]</span> Valerie Megan, <u>Taisho Sasada</u>, Yuzo Taenaka, Youki Kadobayashi, "The Illusion of Authenticity: Analyzing Emergent Behaviors in Human & Virtual Influencers Through Layer Decomposition & Conceptual Drift", The 3rd International Conference on Security and Information Technologies with AI, Internet Computing and Big-data Applications (SITAIBA 2025), Octorber 2025 (Accepted)
 
 - <u>Taisho Sasada</u>, Christophe Kiennert, Gregory Blanc, Yuzo Taenaka, and Youki Kadobayashi, "Dynamic Transmission Scheduling Method for High-Concurrent Zero Trust Access Control", 20th International Conference on Availability, Reliability and Security (ARES 2025), August 2025 (Accepted)
 
@@ -75,7 +75,7 @@ His research focuses on privacy-enhancing technologies, particularly the protect
 
 - Md. Sihabul Islam, <u>Taisho Sasada</u>, Michiko Inoue, "Fault-Injected Weight-Adjusting Training for Reliable Memristor-Based Neural Networks", デザインガイア2025 -VLSI設計の新しい大地-, 2025年12月
 
-- 金谷　温貴, 江口 僚太, <u>笹田 大翔</u>, 大下 福仁, 井上 美智子, "個体群プロトコルにおける時間効率的な一様k分割", 情報科学ワークショップ, 2025年9月.
+- <span style="color: red; ">[優秀研究賞]</span> 金谷　温貴, 江口 僚太, <u>笹田 大翔</u>, 大下 福仁, 井上 美智子, "個体群プロトコルにおける時間効率的な一様k分割", 情報科学ワークショップ, 2025年9月.
 
 - 山﨑 心, 江口 僚太, <u>笹田 大翔</u>, 大下 福仁, 井上 美智子, "個体群プロトコルにおける個体数の上界Nを用いた緩安定ランキング", 第202回アルゴリズム研究発表会.
 
