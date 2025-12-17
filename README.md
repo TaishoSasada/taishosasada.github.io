@@ -22,7 +22,10 @@ His research focuses on privacy-enhancing technologies, particularly the protect
 
 ## Publication (論文)
 
-### International Journal (国際論文誌) 5件
+### International Journal (国際論文誌) 6件
+
+- <u>Taisho Sasada</u>, Bernard Ousmane Sané, "Delay-Allowed ORAM for Trajectory Data Collection over Untrustworthy Cloud Environment", Communications in Computer and Information Science, 2026. (Accepted)
+
 - <u>Taisho Sasada</u>, Md Delwar Hossain, Yuzo Taenaka, Md. Mahbubur Rahman and Youki Kadobayashi, "Secure Federated Matrix Factorization via Device to Device Model Shuffling", IEEE Access, July 2025. (Accepted)
 
 - <u>Taisho Sasada</u>, Yuzo Taenaka, and Youki Kadobayashi, "D$^2$-PSD: Dynamic Differentially-Private Spatial Decomposition in Collaboration with Edge Server", IEEE Access, Oct 2024. (Accepted)
