@@ -139,6 +139,8 @@ His research focuses on privacy-enhancing technologies, particularly the protect
 ***
 
 ## Grants
+- 公益財団法人 GMOインターネット財団 GMO研究助成制度 (900,000 JPY)
+
 - 公益財団法人I-O DATA（アイ・オー・データ）財団 研究開発助成 (2,000,000 JPY)
 
 - Google Japan Cyber Security Research Award (4,500,000 JPY)
