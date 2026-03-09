@@ -41,15 +41,15 @@ His research focuses on privacy-enhancing technologies, particularly the protect
 
 - <span style="color: red; ">[Best Paper Award], [Best Oral Presentation Award]</span> Valerie Megan, <u>Taisho Sasada</u>, Yuzo Taenaka, Youki Kadobayashi, "The Illusion of Authenticity: Analyzing Emergent Behaviors in Human & Virtual Influencers Through Layer Decomposition & Conceptual Drift", The 3rd International Conference on Security and Information Technologies with AI, Internet Computing and Big-data Applications (SITAIBA 2025), October 2025. (Accepted)
 
-- <u>Taisho Sasada</u>, Christophe Kiennert, Gregory Blanc, Yuzo Taenaka, and Youki Kadobayashi, "Dynamic Transmission Scheduling Method for High-Concurrent Zero Trust Access Control", 20th International Conference on Availability, Reliability and Security (ARES 2025), pp. 324–341, August 2025.
+- <u>Taisho Sasada</u>, Christophe Kiennert, Gregory Blanc, Yuzo Taenaka, and Youki Kadobayashi, "Dynamic Transmission Scheduling Method for High-Concurrent Zero Trust Access Control", 20th International Conference on Availability, Reliability and Security (ARES 2025), pp. 324–341, August 2025. DOI: https://doi.org/10.1007/978-3-032-00633-2_19
 
-- Haruki Kanaya, Ryota Eguchi, <u>Taisho Sasada</u>, Fukuhito Ooshita, Michiko Inoue, "Time- and Space-Optimal Silent Self-Stabilizing Exact Majority in Population Protocols", The 26th International Symposium on Stabilization, Safety, and Security of Distributed Systems (SSS 2025), pp. 270–286, October 2025.
+- Haruki Kanaya, Ryota Eguchi, <u>Taisho Sasada</u>, Fukuhito Ooshita, Michiko Inoue, "Time- and Space-Optimal Silent Self-Stabilizing Exact Majority in Population Protocols", The 26th International Symposium on Stabilization, Safety, and Security of Distributed Systems (SSS 2025), pp. 270–286, October 2025. DOI: https://doi.org/10.1007/978-3-032-11127-2_22
 
-- <u>Taisho Sasada</u>, Bernard Ousmane Sané, "Memory-Saving Oblivious RAM for Trajectory Data via Hierarchical Generation of Dummy Access over Untrusted Cloud Environment", 2025 International Conference on Information Systems Security and Privacy (ICISSP 2025), pp. 635–642, February 2025.
+- <u>Taisho Sasada</u>, Bernard Ousmane Sané, "Memory-Saving Oblivious RAM for Trajectory Data via Hierarchical Generation of Dummy Access over Untrusted Cloud Environment", 2025 International Conference on Information Systems Security and Privacy (ICISSP 2025), pp. 635–642, February 2025. DOI: 10.5220/0013370100003899
 
-- Toi Ooka, <u>Taisho Sasada</u>, Ryousuke Abe, Yuzo Taenaka, Youki Kadobayashi, and Shigeya Suzuki, "Extended ACME Protocol with Time-Limited VC Tokens for Automated Organization Validation", In 39th International Conference on Information Networking (ICOIN 2025), pp. 225–230, January 2025.
+- Toi Ooka, <u>Taisho Sasada</u>, Ryousuke Abe, Yuzo Taenaka, Youki Kadobayashi, and Shigeya Suzuki, "Extended ACME Protocol with Time-Limited VC Tokens for Automated Organization Validation", In 39th International Conference on Information Networking (ICOIN 2025), pp. 225–230, January 2025. DOI: 10.1109/ICOIN63865.2025.10993116
 
-- Haruki Kanaya, Ryota Eguchi, <u>Taisho Sasada</u>, Michiko Inoue, "Almost Time-Optimal Loosely-Stabilizing Leader Election on Arbitrary Graphs Without Identifiers in Population Protocols", The 28th International Conference on Principles of Distributed Systems (OPODIS 2024), pp. 37:1–37:17, November 2024.
+- Haruki Kanaya, Ryota Eguchi, <u>Taisho Sasada</u>, Michiko Inoue, "Almost Time-Optimal Loosely-Stabilizing Leader Election on Arbitrary Graphs Without Identifiers in Population Protocols", The 28th International Conference on Principles of Distributed Systems (OPODIS 2024), pp. 37:1–37:17, November 2024. DOI: 10.4230/LIPIcs.OPODIS.2024.37
 
 - <u>Taisho Sasada</u>, Md Delwar Hossain, Yuzo Taenaka, Md. Mahbubur Rahman and Youki Kadobayashi, "Secure Federated Matrix Factorization via Shuffling Encrypted Parameters between Devices", The 16th International Conference on Intelligent Networking and Collaborative Systems (INCoS 2024), pp. 107–119, September 2024. DOI: 10.1007/978-3-031-72322-3_11
 
@@ -119,26 +119,6 @@ His research focuses on privacy-enhancing technologies, particularly the protect
 
 ***
 
-## Lectures
-- 2025
-  - 情報セキュリティ (同志社大学)
-  - プログラミング基礎 (同志社大学)
-  - ディペンダブルシステム学先端技術調査
-  - ディペンダブルシステム学先端技術実践 
-
-- 2024
-  - サマーセミナー (テキスト分析からのプライバシ漏洩を阻止しよう)
-  - スーパーサイエンスハイスクール ラボステイ  (西大和学園) 
-
-- 2022
-  - Trusted Execution Environment (Fall 2022, IPA ICSCoE Program)
-
-- 2021
-  - Zero Trust Access Control / ゼロトラストアクセス制御 (Fall 2021, IPA ICSCoE Program)
-  - Zero Trust Access Control / ゼロトラストアクセス制御 (Summer 2021, enPIT SecCap)
-
-***
-
 ## Grants
 - JSPS Grant-in-Aid for Early-Career Scientists (Accepted)
 
@@ -152,7 +132,7 @@ His research focuses on privacy-enhancing technologies, particularly the protect
   
 - 公益財団法人電気通信普及財団　海外渡航旅費援助 (110,000 JPY)
   
-- 第一三共「はばたく次世代」応援寄付プログラム　NAIST 千手文殊プロジェクト フェーズ１ (200,000)
+- 第一三共「はばたく次世代」応援寄付プログラム　NAIST 千手文殊プロジェクト フェーズ１ (200,000 JPY)
   
 - JSPS research fellow PD (800,000 JPY)
   
@@ -180,6 +160,26 @@ His research focuses on privacy-enhancing technologies, particularly the protect
  - Best Paper Award ("DPSD: Dynamic Private Spatial Decomposition Based on Spatial and Temporal Correlations"), The 7th International Conference on Smart Computing and Communication
    
  - 学生奨励賞 ("データの複雑性を考慮した不均衡データに対するリサンプリング手法"), 第82回全国大会講演論文集
+
+***
+
+## Lectures
+- 2025
+  - 情報セキュリティ (同志社大学)
+  - プログラミング基礎 (同志社大学)
+  - ディペンダブルシステム学先端技術調査
+  - ディペンダブルシステム学先端技術実践 
+
+- 2024
+  - サマーセミナー (テキスト分析からのプライバシ漏洩を阻止しよう)
+  - スーパーサイエンスハイスクール ラボステイ  (西大和学園) 
+
+- 2022
+  - Trusted Execution Environment (Fall 2022, IPA ICSCoE Program)
+
+- 2021
+  - Zero Trust Access Control / ゼロトラストアクセス制御 (Fall 2021, IPA ICSCoE Program)
+  - Zero Trust Access Control / ゼロトラストアクセス制御 (Summer 2021, enPIT SecCap)
 
 ***
 
