@@ -120,6 +120,8 @@ His research focuses on privacy-enhancing technologies, particularly the protect
 ***
 
 ## Grants
+- 東北大学　電気通信研究所　共同プロジェクト研究 (60,0000 JPY)
+
 - JSPS Grant-in-Aid for Early-Career Scientists (Accepted)
 
 - 公益財団法人 GMOインターネット財団 GMO研究助成制度 (900,000 JPY)
