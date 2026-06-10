@@ -37,8 +37,9 @@ His research focuses on privacy-enhancing technologies, particularly the protect
 
 - <u>Taisho Sasada</u>, Yuzo Taenaka, Youki Kadobayashi, "Oblivious Statistic Collection With Local Differential Privacy in Mutual Distrust", IEEE Access, Vol. 11, pp. 21374 - 21386, March 2023. DOI: 10.1109/ACCESS.2023.3251560
 
-### International Conference (国際会議) 17件
+### International Conference (国際会議) 18件
 
+- <u>Taisho Sasada</u>, N’guessan Yves-Roland Douha, and ernard Ousmane Sane, "A Query Execution Integrity Proof Protocol Using TDX Remote Attestation", 21th International Conference on Availability, Reliability and Security (ARES 2026) (accepted)
 - <span style="color: red; ">[Best Paper Award], [Best Oral Presentation Award]</span> Valerie Megan, <u>Taisho Sasada</u>, Yuzo Taenaka, Youki Kadobayashi, "The Illusion of Authenticity: Analyzing Emergent Behaviors in Human & Virtual Influencers Through Layer Decomposition & Conceptual Drift", The 3rd International Conference on Security and Information Technologies with AI, Internet Computing and Big-data Applications (SITAIBA 2025), October 2025. (Accepted)
 
 - <u>Taisho Sasada</u>, Christophe Kiennert, Gregory Blanc, Yuzo Taenaka, and Youki Kadobayashi, "Dynamic Transmission Scheduling Method for High-Concurrent Zero Trust Access Control", 20th International Conference on Availability, Reliability and Security (ARES 2025), pp. 324–341, August 2025. DOI: https://doi.org/10.1007/978-3-032-00633-2_19
@@ -75,7 +76,10 @@ His research focuses on privacy-enhancing technologies, particularly the protect
 
 ***
 
-### Domestic Conference (国内研究会) 20件
+### Domestic Conference (国内研究会) 21件
+
+- Rahman Mizanur, Md. Sihabul Islam, <u>Taisho Sasada</u>, Michiko Inoue, "Quantization-Aware Fault-Injected Level Adjustment for Reliable
+Neural Network Deployment on Memristor Crossbars", 2026年並列／分散／協調処理に関するサマー・ワークショップ（SWoPP 2026）, 2026年8月
 
 - Md. Sihabul Islam, <u>Taisho Sasada</u>, Michiko Inoue, "Fault-Injected Weight-Adjusting Training for Reliable Memristor-Based Neural Networks", デザインガイア2025 -VLSI設計の新しい大地-, 2025年12月
 
