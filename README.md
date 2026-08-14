@@ -76,7 +76,9 @@ His research focuses on privacy-enhancing technologies, particularly the protect
 
 ***
 
-### Domestic Conference (国内研究会) 22件
+### Domestic Conference (国内研究会) 23件
+
+- ハサン トウリク, <u>笹田 大翔</u>, 井上 美智子, "走行位置の真正性を検証可能な車線属性に基づくゼロ知識証明", 電子情報通信学会技術研究報告(Web),  2026年9月
 
 - 波多野 光治，<u>笹田 大翔</u>，波多野 賢治，"フォレンジック調査のための CDM ログ情報フローグラフの設計"，電子情報通信学会ソサイエティ大会論文集，2026年9月
 
