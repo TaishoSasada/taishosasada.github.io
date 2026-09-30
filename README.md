@@ -24,12 +24,11 @@ His research focuses on privacy-enhancing technologies, particularly the protect
 
 ### International Journal (国際論文誌) 6件
 
-- <u>Taisho Sasada</u>, Bernard Ousmane Sané, "Delay-Allowed ORAM for Trajectory Data Collection over Untrustworthy Cloud Environment", Communications in Computer and Information Science, 2026. (Accepted)
+- <u>Taisho Sasada</u>, Bernard Ousmane Sané, "Delay-Allowed ORAM for Trajectory Data Collection over Untrustworthy Cloud Environment", Communications in Computer and Information Science, Vol. 3066, pp. 222–244, 2026.
 
 - <u>Taisho Sasada</u>, Md Delwar Hossain, Yuzo Taenaka, Md. Mahbubur Rahman and Youki Kadobayashi, "Secure Federated Matrix Factorization via Device to Device Model Shuffling", IEEE Access, Vol. 13, pp. 124180–124196, July 2025. DOI: 10.1109/ACCESS.2025.3588497
 
-- <u>Taisho Sasada</u>, Yuzo Taenaka, and Youki Kadobayashi, "D2^2
-2-PSD: Dynamic Differentially-Private Spatial Decomposition in Collaboration with Edge Server", IEEE Access, Vol. 12, pp. 156307–156326, Oct 2024. DOI: 10.1109/ACCESS.2024.3485610
+- <u>Taisho Sasada</u>, Yuzo Taenaka, and Youki Kadobayashi, "D²-PSD: Dynamic Differentially-Private Spatial Decomposition in Collaboration with Edge Server", IEEE Access, Vol. 12, pp. 156307–156326, Oct 2024. DOI: 10.1109/ACCESS.2024.3485610
 
 - <u>Taisho Sasada</u>, Yuzo Taenaka, Youki Kadobayashi, Doudou Fall, "Web-Biometrics for User Authenticity Verification in Zero Trust Access Control", IEEE Access, Vol. 12, pp. 129611 - 129622, June 2024. DOI: 10.1109/ACCESS.2024.3413696
 
@@ -37,10 +36,13 @@ His research focuses on privacy-enhancing technologies, particularly the protect
 
 - <u>Taisho Sasada</u>, Yuzo Taenaka, Youki Kadobayashi, "Oblivious Statistic Collection With Local Differential Privacy in Mutual Distrust", IEEE Access, Vol. 11, pp. 21374 - 21386, March 2023. DOI: 10.1109/ACCESS.2023.3251560
 
-### International Conference (国際会議) 18件
+### International Conference (国際会議) 19件
 
-- <u>Taisho Sasada</u>, N’guessan Yves-Roland Douha, and Bernard Ousmane Sane, "A Query Execution Integrity Proof Protocol Using TDX Remote Attestation", 21th International Conference on Availability, Reliability and Security (ARES 2026) (accepted)
-- <span style="color: red; ">[Best Paper Award], [Best Oral Presentation Award]</span> Valerie Megan, <u>Taisho Sasada</u>, Yuzo Taenaka, Youki Kadobayashi, "The Illusion of Authenticity: Analyzing Emergent Behaviors in Human & Virtual Influencers Through Layer Decomposition & Conceptual Drift", The 3rd International Conference on Security and Information Technologies with AI, Internet Computing and Big-data Applications (SITAIBA 2025), October 2025. (Accepted)
+- Keito Mimuro, Ryota Eguchi, <u>Taisho Sasada</u>, Michiko Inoue, "Meeting Times for Non-Backtracking and ε-Backtracking Random Walks on Rings", 18th International Workshop on Parallel and Distributed Algorithms and Applications (PDAA 2026), 2026. (Accepted)
+
+- <u>Taisho Sasada</u>, N'guessan Yves-Roland Douha, and Bernard Ousmane Sane, "A Query Execution Integrity Proof Protocol Using TDX Remote Attestation", 21st International Conference on Availability, Reliability and Security (ARES 2026), pp. 423–441, 2026.
+
+- <span style="color: red; ">[Best Paper Award], [Best Oral Presentation Award]</span> Valerie Megan, <u>Taisho Sasada</u>, Yuzo Taenaka, Youki Kadobayashi, "The Illusion of Authenticity: Analyzing Emergent Behaviors in Human & Virtual Influencers Through Layer Decomposition & Conceptual Drift", The 3rd International Conference on Security and Information Technologies with AI, Internet Computing and Big-data Applications (SITAIBA 2025), pp. 143–158, October 2025.
 
 - <u>Taisho Sasada</u>, Christophe Kiennert, Gregory Blanc, Yuzo Taenaka, and Youki Kadobayashi, "Dynamic Transmission Scheduling Method for High-Concurrent Zero Trust Access Control", 20th International Conference on Availability, Reliability and Security (ARES 2025), pp. 324–341, August 2025. DOI: https://doi.org/10.1007/978-3-032-00633-2_19
 
@@ -54,9 +56,9 @@ His research focuses on privacy-enhancing technologies, particularly the protect
 
 - <u>Taisho Sasada</u>, Md Delwar Hossain, Yuzo Taenaka, Md. Mahbubur Rahman and Youki Kadobayashi, "Secure Federated Matrix Factorization via Shuffling Encrypted Parameters between Devices", The 16th International Conference on Intelligent Networking and Collaborative Systems (INCoS 2024), pp. 107–119, September 2024. DOI: 10.1007/978-3-031-72322-3_11
 
-- Junki Yuasa, <u>Taisho Sasada</u>, Christophe Kienner, Gregory Blanc, Yuzo Taenaka, Youki Kadobayashi, "OIPM: Access Control Method to Prevent ID/Session Token Abuse on OpenID Connect", In 21st International Conference on Security and Cryptography (SECRYPT 2024), pp. 674–679, July 2024. DOI: 10.5220/0012757900003767
+- Junki Yuasa, <u>Taisho Sasada</u>, Christophe Kiennert, Gregory Blanc, Yuzo Taenaka, Youki Kadobayashi, "OIPM: Access Control Method to Prevent ID/Session Token Abuse on OpenID Connect", In 21st International Conference on Security and Cryptography (SECRYPT 2024), pp. 674–679, July 2024. DOI: 10.5220/0012757900003767
 
-- <span style="color: red; ">[Best Paper Award]</span> Tomoya Suzuki, <u>Taisho Sasada</u>, Yuzo Taenaka, Youki Kadobayashi, "MosaicDB: An Efficient Trusted / Untrusted Memory Management for Location Data in Database", In The Sixteenth International Conference on Advances in Databases, Knowledge, and Data Applications (DBKDA 2024), pp. 1–6, February 2024. (Acceptance rate 37%)
+- <span style="color: red; ">[Best Paper Award]</span> Tomoya Suzuki, <u>Taisho Sasada</u>, Yuzo Taenaka, Youki Kadobayashi, "MosaicDB: An Efficient Trusted / Untrusted Memory Management for Location Data in Database", In The 16th International Conference on Advances in Databases, Knowledge, and Data Applications (DBKDA 2024), pp. 1–6, February 2024. (Acceptance rate 37%)
 
 - <u>Taisho Sasada</u>, Nesrine Kaaniche, Maryline Laurent, Yuzo Taenaka, Youki Kadobayashi, "Differentially-Private Data Aggregation over Encrypted Location Data for Range Counting Query", In 38th International Conference on Information Networking (ICOIN 2024), pp. 409–414, January 2024. DOI: 10.1109/ICOIN59985.2024.10572074
 
@@ -66,64 +68,69 @@ His research focuses on privacy-enhancing technologies, particularly the protect
 
 - <u>Taisho Sasada</u>, Yuzo Taenaka, Youki Kadobayashi, "Decoupling Statistical Trends from Data Volume on LDP-Based Spatio-Temporal Data Collection", 2022 IEEE Future Networks World Forum (FNWF 2022), pp. 262–269, October 2022.
 
-- <u>Taisho Sasada</u>, Yuto Masuda, Yuzo Taenaka, Youki Kadobayashi, Doudou Fall, "Zero-Trust Access Control Focusing on Imbalanced Distribution in Browser Clickstreams", In Proceedings of the The Eighth International Conference on Software Defined Systems (SDS 2021), pp. 1–8, December 2021. DOI: 10.1109/SDS54264.2021.9732109
+- <u>Taisho Sasada</u>, Yuto Masuda, Yuzo Taenaka, Youki Kadobayashi, Doudou Fall, "Zero-Trust Access Control Focusing on Imbalanced Distribution in Browser Clickstreams", In Proceedings of the Eighth International Conference on Software Defined Systems (SDS 2021), pp. 1–8, December 2021. DOI: 10.1109/SDS54264.2021.9732109
 
 - <u>Taisho Sasada</u>, Masataka Kawai, Doudou Fall, Yuzo Taenaka, Youki Kadobayashi, "Differentially-Private Text Generation via Text Preprocessing to Reduce Utility Loss", In the 3rd International Conference on Artificial Intelligence in Information and Communication (ICAIIC 2021), pp. 42–47, April 2021. DOI: 10.1109/ICAIIC51459.2021.9415242
 
 - <u>Taisho Sasada</u>, Yuzo Taenaka, Youki Kadobayashi, "Anonymizing Location Information in Unstructured Text Using Knowledge Graph", In Proceedings of the 22nd International Conference on Information Integration and Web-based Applications & Services (iiWAS 2020), pp. 163–167, November 2020. DOI: 10.1145/3428757.3429195
 
-- <u>Taisho Sasada</u>, Zhaoyu Liu, Tokiya Baba, Kenji Hatano, Yusuke Kimura, "A resampling method for imbalanced datasets considering noise and overlap", 24th International Conference on Knowledge-Based and Intelligent Information & Engineering Systems (KES 2020), pp. 420–429, September 2020. DOI: 10.1016/j.procs.2020.08.043
+- <u>Taisho Sasada</u>, Zhaoyu Liu, Tokiya Baba, Kenji Hatano, Yusuke Kimura, "A Resampling Method for Imbalanced Datasets Considering Noise and Overlap", 24th International Conference on Knowledge-Based and Intelligent Information & Engineering Systems (KES 2020), pp. 420–429, September 2020. DOI: 10.1016/j.procs.2020.08.043
 
 ***
 
-### Domestic Conference (国内研究会) 23件
+### Domestic Conference (国内研究会) 26件
 
-- ハサン トウリク, <u>笹田 大翔</u>, 井上 美智子, "走行位置の真正性を検証可能な車線属性に基づくゼロ知識証明", 電子情報通信学会技術研究報告(Web),  2026年9月
+- 金谷 温貴, <u>笹田 大翔</u>, 大下 福仁, 井上 美智子, "劣線形時間劣線形状態一様k分割個体群プロトコル", 第22回情報科学ワークショップ, 2026年9月
 
-- 波多野 光治，<u>笹田 大翔</u>，波多野 賢治，"フォレンジック調査のための CDM ログ情報フローグラフの設計"，電子情報通信学会ソサイエティ大会論文集，2026年9月
+- 川染 翔吾, <u>笹田 大翔</u>, 井上 美智子, "多値検証付きビザンチン合意アルゴリズムの通信複雑性シミュレーション評価", 第22回情報科学ワークショップ, 2026年9月
 
-- Rahman Mizanur, Md. Sihabul Islam, <u>Taisho Sasada</u>, Michiko Inoue, "Quantization-Aware Fault-Injected Level Adjustment for Reliable
-Neural Network Deployment on Memristor Crossbars", 2026年並列／分散／協調処理に関するサマー・ワークショップ（SWoPP 2026）, 2026年8月
+- 三室 慶人, 江口 僚太, <u>笹田 大翔</u>, 井上 美智子, "リング上でε-backtrackingランダムウォークの邂逅時間", 第22回情報科学ワークショップ, 2026年9月
+
+- ハサン トウリク, <u>笹田 大翔</u>, 井上 美智子, "走行位置の真正性を検証可能な車線属性に基づくゼロ知識証明", 電子情報通信学会技術研究報告（ネットワークシステム研究会）, 2026年9月
+
+- 波多野 光治, <u>笹田 大翔</u>, 波多野 賢治, "フォレンジック調査のためのCDMログ情報フローグラフの設計", 電子情報通信学会ソサイエティ大会, 2026年9月
+
+- Rahman Mizanur, Md. Sihabul Islam, <u>Taisho Sasada</u>, Michiko Inoue, "Quantization-Aware Fault-Injected Level Adjustment for Reliable Neural Network Deployment on Memristor Crossbars", 2026年並列／分散／協調処理に関するサマー・ワークショップ（SWoPP 2026）, 2026年8月
 
 - Md. Sihabul Islam, <u>Taisho Sasada</u>, Michiko Inoue, "Fault-Injected Weight-Adjusting Training for Reliable Memristor-Based Neural Networks", デザインガイア2025 -VLSI設計の新しい大地-, 2025年12月
 
-- <span style="color: red; ">[優秀研究賞]</span> 金谷　温貴, 江口 僚太, <u>笹田 大翔</u>, 大下 福仁, 井上 美智子, "個体群プロトコルにおける時間効率的な一様k分割", 情報科学ワークショップ, 2025年9月.
+- <span style="color: red; ">[優秀研究賞]</span> 金谷 温貴, 江口 僚太, <u>笹田 大翔</u>, 大下 福仁, 井上 美智子, "個体群プロトコルにおける時間効率的な一様k分割", 第21回情報科学ワークショップ, 2025年9月
 
-- 山﨑 心, 江口 僚太, <u>笹田 大翔</u>, 大下 福仁, 井上 美智子, "個体群プロトコルにおける個体数の上界Nを用いた緩安定ランキング", 第202回アルゴリズム研究発表会.
+- 山﨑 心, 江口 僚太, <u>笹田 大翔</u>, 大下 福仁, 井上 美智子, "個体群プロトコルにおける個体数の上界Nを用いた緩安定ランキング", 情報処理学会 第202回アルゴリズム研究発表会, 2025年3月
 
-- 金谷　温貴, 江口 僚太, <u>笹田 大翔</u>, 大下 福仁, 井上 美智子, "個体群プロトコルにおけるほぼ時間最適な匿名任意グラフ上の緩安定なリーダー選挙", 情報科学ワークショップ, pp. 7-14, 2024年9月.
+- 金谷 温貴, 江口 僚太, <u>笹田 大翔</u>, 大下 福仁, 井上 美智子, "個体群プロトコルにおけるほぼ時間最適な匿名任意グラフ上の緩安定なリーダー選挙", 情報科学ワークショップ, pp. 7–14, 2024年9月
 
-- <span style="color: red; ">[優秀プレゼンテーション賞]</span>　山﨑 心, 江口 僚太, <u>笹田 大翔</u>, 井上 美智子, "個体群プロトコルにおける​個体数の上界Nを用いた​緩安定ランキング ", 情報科学ワークショップ, pp. 1-6, 2024年9月.
+- <span style="color: red; ">[優秀プレゼンテーション賞]</span> 山﨑 心, 江口 僚太, <u>笹田 大翔</u>, 井上 美智子, "個体群プロトコルにおける個体数の上界Nを用いた緩安定ランキング", 情報科学ワークショップ, pp. 1–6, 2024年9月
 
-- <span style="color: red; ">[若手研究奨励賞]</span> 湯浅 潤樹,  <u>笹田 大翔</u>, 妙中 雄三, 門林 雄基, "［奨励講演］OpenID Connectにおけるセッショントークンの悪用に対するアクセス制御手法の提案", 信学技報, vol. 123, no. 367, NS2023-162, pp. 19-24, 2024年1月.
+- <span style="color: red; ">[若手研究奨励賞]</span> 湯浅 潤樹, <u>笹田 大翔</u>, 妙中 雄三, 門林 雄基, "［奨励講演］OpenID Connectにおけるセッショントークンの悪用に対するアクセス制御手法の提案", 信学技報, vol. 123, no. 367, NS2023-162, pp. 19–24, 2024年1月
 
-- 湯浅 潤樹,  <u>笹田 大翔</u>, 妙中 雄三, 門林 雄基, "OpenID Connectにおけるテストシナリオをプログラム記述可能なテストツールの提案", 信学技報, vol. 123, no. 269, ICSS2023-66, pp. 108-113, 2023年11月.
+- 湯浅 潤樹, <u>笹田 大翔</u>, 妙中 雄三, 門林 雄基, "OpenID Connectにおけるテストシナリオをプログラム記述可能なテストツールの提案", 信学技報, vol. 123, no. 269, ICSS2023-66, pp. 108–113, 2023年11月
 
-- 湯浅 潤樹, <u>笹田 大翔</u>, 妙中 雄三, 門林 雄基, "OpenID ConnectにおけるIDトークンの悪用に対するアクセス制御手法の提案", 電子情報通信学会技術研究報告(Web), vol.123(No.198), pp.53-58(NS), 2023年10月
+- 湯浅 潤樹, <u>笹田 大翔</u>, 妙中 雄三, 門林 雄基, "OpenID ConnectにおけるIDトークンの悪用に対するアクセス制御手法の提案", 電子情報通信学会技術研究報告(Web), vol. 123, no. 198, pp. 53–58, 2023年10月
 
-- 鈴木 友也, <u>笹田 大翔</u>, 妙中 雄三, 門林 雄基, "プライバシゾーン設定を考慮したIntel SGXによる位置データ保護機構の提案", 電子情報通信学会技術研究報告(Web), vol.123(No,198), pp.65-70, 2023年10月
+- 鈴木 友也, <u>笹田 大翔</u>, 妙中 雄三, 門林 雄基, "プライバシゾーン設定を考慮したIntel SGXによる位置データ保護機構の提案", 電子情報通信学会技術研究報告(Web), vol. 123, no. 198, pp. 65–70, 2023年10月
 
-- <span style="color: red; ">[若手研究奨励賞]</span> <u>笹田 大翔</u>, 妙中 雄三, 門林 雄基, "ゼロトラストアクセス制御のための行動的・認知的バイオメトリクスを用いたユーザ真正性検証手法", 電子情報通信学会技術研究報告(Web),  vol.122(No.362), pp. 19-24, 2023年1月
+- <span style="color: red; ">[若手研究奨励賞]</span> <u>笹田 大翔</u>, 妙中 雄三, 門林 雄基, "ゼロトラストアクセス制御のための行動的・認知的バイオメトリクスを用いたユーザ真正性検証手法", 電子情報通信学会技術研究報告(Web), vol. 122, no. 362, pp. 19–24, 2023年1月
 
-- 瀨古 巽, 中川 桃李, 　<u>笹田 大翔</u>, 　妙中 雄三, 門林 雄基,	"CISOの能力習得を目的としたサイバーセキュリティ演習の設計と実施", 電子情報通信学会技術研究報告(Web), vol.122(No.274), pp. 23-28, 2022年11月
+- 瀨古 巽, 中川 桃李, <u>笹田 大翔</u>, 妙中 雄三, 門林 雄基, "CISOの能力習得を目的としたサイバーセキュリティ演習の設計と実施", 電子情報通信学会技術研究報告(Web), vol. 122, no. 274, pp. 23–28, 2022年11月
 
-- 濱田 雅大, <u>笹田 大翔</u>, 妙中 雄三, 門林 雄基, "類似性と多様性を両立する連合型個別化推薦モデルの構築", 電子情報通信学会技術研究報告(Web), vol.122(No.105), pp. 100-105, 2022年7月
+- 濱田 雅大, <u>笹田 大翔</u>, 妙中 雄三, 門林 雄基, "類似性と多様性を両立する連合型個別化推薦モデルの構築", 電子情報通信学会技術研究報告(Web), vol. 122, no. 105, pp. 100–105, 2022年7月
 
-- <u>笹田 大翔</u>, 妙中 雄三, 門林 雄基, "軌跡データの時間的/空間的な内在情報価値の保存に向けたLDPにおける動的プライバシ制御法の一検討", 電子情報通信学会技術研究報告(Web), Vol.122(No.105), pp. 106-111, 2022年7月
+- <u>笹田 大翔</u>, 妙中 雄三, 門林 雄基, "軌跡データの時間的/空間的な内在情報価値の保存に向けたLDPにおける動的プライバシ制御法の一検討", 電子情報通信学会技術研究報告(Web), vol. 122, no. 105, pp. 106–111, 2022年7月
 
-- <u>笹田 大翔</u>, 妙中 雄三, 門林 雄基, "ゼロトラストアクセス制御を題材とした仮想システム設計演習の教育効果測定", 研究報告教育学習支援情報システム（CLE), 2022-CLE-37(14), pp. 1-8, 2022年6月
+- <u>笹田 大翔</u>, 妙中 雄三, 門林 雄基, "ゼロトラストアクセス制御を題材とした仮想システム設計演習の教育効果測定", 情報処理学会研究報告 教育学習支援情報システム（CLE）, 2022-CLE-37(14), pp. 1–8, 2022年6月
 
-- 鈴木 友也, 笹田 大翔, 増田 裕斗, 妙中 雄三, "Intel SGXを用いた耐タンパー性を備えたホスト型IDSの試作", IOTS 2021, 2021年11月. [学生奨励賞]
+- <span style="color: red; ">[学生奨励賞]</span> 鈴木 友也, <u>笹田 大翔</u>, 増田 裕斗, 妙中 雄三, "Intel SGXを用いた耐タンパー性を備えたホスト型IDSの試作", インターネットと運用技術シンポジウム（IOTS 2021）, 2021年11月
 
-- <u>笹田 大翔</u>, 増田 裕斗, 妙中 雄三, 門林 雄基, Doudou Fall, "ユーザ真正性を検証するゼロトラストアクセス制御機構の設計と試作", 信学技法,vol. 121, no. 262, NS2021-95, pp. 56–61, 2021年11月. 
+- <u>笹田 大翔</u>, 増田 裕斗, 妙中 雄三, 門林 雄基, Doudou Fall, "ユーザ真正性を検証するゼロトラストアクセス制御機構の設計と試作", 信学技報, vol. 121, no. 262, NS2021-95, pp. 56–61, 2021年11月
 
-- <u>笹田 大翔</u>, 河合 将隆, 妙中 雄三, Doudou Fall, 門林 雄基, "プライバシ保護と内在情報価値保存を両立する擬似テキスト生成モデルの検討", DEIM2021, 2021年3月. 
+- <u>笹田 大翔</u>, 河合 将隆, 妙中 雄三, Doudou Fall, 門林 雄基, "プライバシ保護と内在情報価値保存を両立する擬似テキスト生成モデルの検討", 第13回データ工学と情報マネジメントに関するフォーラム（DEIM2021）, 2021年3月
 
-- <u>笹田 大翔</u>, 妙中 雄三, 門林 雄基, Doudou Fall, "ユーザの軌跡隣接性を考慮した局所差分プライバシにおけるノイズ付加量変化の検討", 信学技報, vol. 120, no. 224, ISEC2020-39, pp. 45–50, 2020年11月.
+- <u>笹田 大翔</u>, 妙中 雄三, 門林 雄基, Doudou Fall, "ユーザの軌跡隣接性を考慮した局所差分プライバシにおけるノイズ付加量変化の検討", 信学技報, vol. 120, no. 224, ISEC2020-39, pp. 45–50, 2020年11月
 
-- <span style="color: red; ">[学生奨励賞]</span> <u>笹田 大翔</u>, 馬場 睦也, 木村 優介, 波多野 賢治, "データの複雑性を考慮した不均衡データに対するリサンプリング手法", 情報処理学会 第82回全国大会講演論文集, 2020年3月．
+- <u>笹田 大翔</u>, リュウ ショウウ, 蒲原 智也, 波多野 賢治, "ネットワーク性能指標を用いた不正アクセスの攻撃分類と評価", WebDB Forum 2020, 2020年9月
 
-- <u>笹田 大翔</u>, リュウ ショウウ, 蒲原 智也, 波多野 賢治, "ネットワーク性能指標を用いた不正アクセスの攻撃分類と評価", WebDB Forum, 2020年9月
+- <span style="color: red; ">[学生奨励賞]</span> <u>笹田 大翔</u>, 馬場 睦也, 木村 優介, 波多野 賢治, "データの複雑性を考慮した不均衡データに対するリサンプリング手法", 情報処理学会 第82回全国大会, 2020年3月
 
 ***
 
@@ -131,7 +138,7 @@ Neural Network Deployment on Memristor Crossbars", 2026年並列／分散／協�
 
 - Cohere Labs Catalyst Grant (2,000 USD)
 
-- 東北大学　電気通信研究所　共同プロジェクト研究 (60,0000 JPY)
+- 東北大学　電気通信研究所　共同プロジェクト研究 (600,000 JPY)
 
 - JSPS 若手研究 (2,730,000 JPY)
 
@@ -154,11 +161,11 @@ Neural Network Deployment on Memristor Crossbars", 2026年並列／分散／協�
 ***
 
 ## Award
- - Best Paper Award ("The Illusion of Authenticity: Analyzing Emergent Behaviors in Human & Virtual Influencers Through Layer Decomposition & Conceptual Drift"), The 3rd International Conference on Security and Information Technologies with AI, Internet Computing and Big-data Applications
+ - Best Paper Award / Best Oral Presentation Award ("The Illusion of Authenticity: Analyzing Emergent Behaviors in Human & Virtual Influencers Through Layer Decomposition & Conceptual Drift"), The 3rd International Conference on Security and Information Technologies with AI, Internet Computing and Big-data Applications
  
- - 優秀研究賞　(“個体群プロトコルにおける時間効率的な一様k分割“), 情報科学ワークショップ2025
+ - 優秀研究賞　(“個体群プロトコルにおける時間効率的な一様k分割“), 第21回情報科学ワークショップ
 
- - 優秀プレゼンテーション賞　(“個体群プロトコルにおける​個体数の上界Nを用いた​緩安定ランキング“), 情報科学ワークショップ2024
+ - 優秀プレゼンテーション賞　(“個体群プロトコルにおける個体数の上界Nを用いた緩安定ランキング“), 情報科学ワークショップ2024
    
  - Best Paper Award ("MosaicDB: An Efficient Trusted / Untrusted Memory Management for Location Data in Database"), The Sixteenth International Conference on Advances in Databases, Knowledge, and Data Application 
    
@@ -213,4 +220,3 @@ Neural Network Deployment on Memristor Crossbars", 2026年並列／分散／協�
 - [Dependable Sys. Lab.](https://sites.google.com/view/dependablesyslab/)
 
 ***
-
